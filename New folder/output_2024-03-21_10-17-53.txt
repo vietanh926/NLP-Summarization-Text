@@ -1,0 +1,1357 @@
+
+
+
+
+
+
+
+
+
+Hash | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Hash
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 0.0 (0 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 14:48 01-05-2022
+
+
+3.965 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Hash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hash
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+3.965
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Hash
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Các bài toán về chủ đề xâu luôn là một vấn đề khó trong lập trình. Có rất nhiều các thuật toán, cấu trúc dữ liệu được tạo ra để giải quyết các bài toán về xâu. Trong số những thuật toán ấy, Hash là thuật toán được sử dụng rất phổ
+ biến. Vậy thì Hash là gì? Hãy cùng nhau đi tìm hiểu trong bài học ngày hôm nay nhé.
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khoá học 
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Một số tính chất của toán tử % Thuật toán Hash 
+
+Một số tính chất của toán tử %
+Khái niệm
+Trước hết, hãy nhắc lại một chút cho bạn nào đã quên về toán tử %.
+Toán tử % là phép toán chia lấy phần dư. Ví dụ 5 chia 3 dư 2 thì ta có
+5 % 3=2
+
+Tính chất
+Để có thể tiếp thu bài học, mình sẽ cần cung cấp cho các bạn một số các tính chất cơ bản của toán tử % như sau.
+
+Với a, b,p là các số nguyên dương, ta có:
+
+
+
+
+Ví dụ: Ta có 
+Thì  và bằng với  .
+
+Hay  và bằng với
+.
+
+Thuật toán Hash
+Bài toán đặt ra
+Cho một xâu  chỉ bao gồm các chữ cái in thường, có chiều dài không vượt quá
+. Cho một xâu
+ khác có chiều dài nhỏ hơn xâu
+, hãy in ra các vị trí
+ trong xâu
+ sao cho xâu con đoạn (kí hiệu
+ là chiều dài xâu
+) là xâu . Các vị trí được đánh số từ 1.
+Ví dụ:
+
+
+
+Input
+Output
+
+
+
+ababbab
+bab
+
+
+2 5
+
+
+
+
+
+Giải thích: Ta thấy xâu con đoạn và
+ của
+ là “bab” trùng với
+.
+
+
+Ý tưởng
+Ta sẽ không xử lí các xâu dưới dạng các kí tự mà ta sẽ sử dụng dạng số. Khi đó ký tự ‘a’ sẽ tương ứng với số 1, kí tự ‘b’ tương ứng với số 2, …
+Tức là biểu diễn các ký tự chữ bằng số thứ tự của chúng trong bảng chữ cái.
+ Ví dụ xâu “abzc” sẽ được biểu diễn bởi dãy 4 số . Lúc này, một xâu sẽ tương ứng với một số được biểu diễn ở dạng cơ số
+base với
+.
+
+Từ đây, ta rút ra được nhận xét: Hai xâu bằng nhau khi và chỉ khi biểu diễn số của hai xâu ở cơ số 10 là bằng nhau. Do đó, để so sánh hai xâu, ta sẽ chuyển biểu diễn của chúng từ hệ cơ số  về
+ cơ số 10 rồi so sánh. Biểu diễn của chúng trong cơ số 10 chính là mã Hash.
+Tuy nhiên, có một vấn đề ở đây. Do một xâu có tối đa
+ kí tự nên biểu diễn cơ số 10 của chúng là vô cùng lớn nên nếu dạng biểu diễn thập phân của xâu
+ là , dạng biểu diễn thập phân của xâu
+ là  thì ta sẽ coi
+ giống  “khi và chỉ khi”
+ với
+ là số nguyên tố đủ lớn.
+
+Dễ thấy, kết luận trên là chưa chính xác do  là điều kiện cần chứ không phải điều kiện đủ để
+ giống . Tuy nhiên, ta chấp nhận việc này trong Hash. Trên thực tế, thuật toán Hash
+LUÔN LUÔN TỒN TẠI TỶ LỆ SAI. Tuy nhiên, tỉ lệ này rất thấp (cá nhân mình chưa bao giờ gặp Hash sai) và có cách giảm tỉ lệ này xuống gần như không thể.
+
+Cách cài đặt
+Vấn đề đầu tiên mà chúng ta cần giải quyết là biểu diễn một xâu dưới dạng cơ số 10. Nếu như các bạn đã từng làm các bài toán chuyển các số ở hệ cơ số 2, 3, 8, 16 sang hệ cơ số 10 thì vấn đề này khá đơn giản.
+Giả sử ta có một xâu  có dạng biểu diễn dãy số là
+ với cơ số
+. Khi đó, mã Hash của
+ là:
+
+Trong thực tế, ta sẽ không lấy giá trị đúng của phép tính trên mà ta lấy giá trị của nó sau khi chia lấy dư cho
+.
+Vấn đề tiếp theo ta cần quan tâm là làm sao lấy ra được giá trị đoạn
+ trong
+ để tiến hành so sánh.
+Giả sử ta có biểu diễn dưới dạng cơ số  của
+ là . Giờ để lấy mã Hash của đoạn
+ là
+ thì ta lấy mã Hash của
+ trừ đi mã Hash của
+.
+Để dễ hình dung, hãy thử tưởng tượng trong hệ cơ số . Ta có một số là
+, giờ để thu được số
+, có phải ta sẽ lấy  trừ đi  hay chính là trừ đi
+ phải không?
+Do vậy để thu được mã Hash đoạn  ta chỉ cần lấy mã Hash đoạn
+ trừ đi tích của mã Hash đoạn  với
+.
+Từ đây, ta nghĩ đến việc tính trước tất cả các mã Hash của các xâu tiền tố của
+.
+Vấn đề cuối cùng còn lại là chọn  và
+. Về cơ bản,  và
+ cần đáp ứng hai yêu cầu sau:
+
+ là số nguyên tố lớn hơn số lượng số
+ký tự cần mã hoá (mình thường chọn 257)  là số nguyên tố đủ lớn (mình thường chọn
+)
+
+
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+const int MOD = 1e9 + 7, BASE = 257, MaxN = 1 + 1e5;
+
+ll hashS1[MaxN], power[MaxN];
+
+ll getHash(int i, int j){
+    return (hashS1[j] - hashS1[i - 1] * power[j - i + 1] + 1ll * MOD * MOD) % MOD;
+}
+
+int main(){
+    string s1 = "ababbab", s2 = "bab";
+    int n = s1.length(), m = s2.length();
+    // Việc này biến chỉ số xâu từ [0, n - 1] và [0, m - 1] thành [1, n] và [1, m]
+    s1 = " " + s1;
+    s2 = " " + s2;
+    ll hashS2 = 0;
+    for(int i = 1 ; i <= m ; ++i) hashS2 = (hashS2 * BASE + (s2[i] - 'a' + 1)) % MOD;
+    // power[i] là BASE^i
+    power[0] = 1;
+    for(int i = 1 ; i <= n ; ++i) power[i] = (power[i - 1] * BASE) % MOD;
+    for(int i = 1 ; i <= n ; ++i) hashS1[i] = (hashS1[i - 1] * BASE + (s1[i] - 'a' + 1)) % MOD;
+    for(int i = 1 ; i <= n - m + 1 ; ++i)
+    if(getHash(i, i + m - 1) == hashS2) cout << i << " ";
+
+    return 0;
+}
+
+
+Độ phức tạp
+Ta thấy, các phép tính trong code trên đều diễn ra trong
+ nên độ phức tạp chương trình chính là
+.
+
+Mở rộng
+Như mình đã nói ở trên, Hash luôn có cơ hội sai dù tỉ lệ này là rất nhỏ. Nếu như test được sinh hoàn toàn ngẫu nhiên thì gần như không thể sai được. Tuy nhiên, nếu như người ra đề cố tính “giết Hash” thì họ sẽ nghĩ ra được các test
+ sai. Do đó, để đảm bảo chắc chắn hơn, các bạn có thể tính mã Hash với 2 cơ số  và 2 số dư
+ khác nhau. Khi này, gần như là không thể có cách “giết Hash”.
+
+Kết luận
+
+Qua bài này chúng ta đã nắm được về Hash.
+Bài sau chúng ta sẽ quay trở lại tìm hiểu về cấu trúc dữ liệu với bài
+Đồ thị và cây. Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Hash dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

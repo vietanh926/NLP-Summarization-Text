@@ -1,0 +1,1273 @@
+
+
+
+
+
+
+
+
+
+Tính diện tích tam giác - Phần 2 | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tính diện tích tam giác - Phần 2
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 0.0 (0 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 14:01 08-07-2022
+
+
+3.063 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Tính diện tích tam giác - Phần 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tính diện tích tam giác - Phần 2
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+3.063
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Tính diện tích tam giác - Phần 2
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Trong bài học trước, chúng ta đã cùng nhau tìm ra công thức tính diện tích của một tam giác. Trong bài học ngày hôm nay, chúng ta hãy cùng nhau tìm hiểu xem từ công thức đó có thể suy ra những gì nhé.
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khoá học
+Tính diện tích của tam giác
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Một số tính chất của công thức tính diện tích tam giác
+
+
+Vấn đề kì trước
+Nhắc lại một chút, trong bài học trước, ta đã đặt ra vấn đề như sau:
+Trên hệ tọa độ Descartes, cho một tam giác gồm
+3 đỉnh xác định bởi các toạ độ
+. Tính diện tích tam giác đã cho.
+Input:
+
+Gồm 3 dòng, mỗi dòng cho bởi 2 số nguyên dương  thể hiện cho toạ độ đỉnh của tam giác
+
+
+Output:
+
+Một số thực duy nhất là diện tích tam giác đã cho. Kết quả làm tròn đến 1 chữ số phần thập phân.
+
+Ví dụ:
+
+
+
+Input
+Output
+
+
+
+2 1
+6 2
+3 4
+
+
+5 5
+
+
+
+
+
+
+Giải thích ví dụ:
+Đây là tam giác đã cho trên hệ toạ độ Descartes
+
+Sau quá trình phân tích và biến đổi, ra rút ra được công thức sau:
+Gọi  lần
+ lượt là toạ độ 3 đỉnh của một tam giác. Khi đó, diện tích tam giác đó được xác định như sau:
+
+ 
+Mình đã đặt ra một vấn đề như sau:
+Nếu như 3 đỉnh của tam giác được tính trong công thức trên có thứ tự là A, C, B, ta sẽ có kết quả là 5,5. Vậy điều gì sẽ xảy ra nếu thứ tự các đỉnh trong công thức trên là A, B, C?
+Các bạn có thể thử thay thứ tự các đỉnh trong đoạn code ở bài trước chúng ta đã làm và thấy ngay kết quả. Lúc này, output là -5,5, một số âm. Đây rõ ràng là một điều vô lí do diện tích tam giác thì làm sao có thể là một số âm được.
+ Vậy phải chăng công thức của chúng ta sai? Nếu các bạn tinh ý có thể nhận ra, output khi này chính là giá trị âm của kết quả đúng. Điều này có gì đặc biệt? Trước hết, hãy cùng tìm hiểu tại sao lại có kết quả trên.
+
+Diện tích đại số
+Giải thích
+
+Hãy cùng thay toạ độ của các đỉnh theo thứ tự A, B, C vào công thức trên:
+
+Tương đương,  
+Hay, 
+Nếu so công thức trên với công thức đã tính ở bài trước, ta thấy ngay công thức này là công thức ngược với công thức bài trước. Tại sao lại có điều này? Ta có thể giải thích bằng hình học như sau:
+Ở bài trước, ta tính “ghép” hai hình  và
+ thì thấy thừa ra hình
+ nên “cắt” bỏ đi hình  để thu được tam giác
+ còn quá trình trên chính là đi làm ngược lại, ta “cắt” bỏ hai hình
+ và
+ khỏi hình
+ nên kết quả là ta “cắt” dư tam giác
+.
+Do đó, thực chất công thức trên chỉ cho ta biết được
+diện tích đại số của một hình. Muốn tính diện tích hình học của một hình, ta cần lấy
+giá trị tuyệt đối của diện tích đại số.
+
+Ứng dụng
+Xác định chiều các đỉnh được xét
+Vậy thì diện tích đại số của một hình có cho ta biết tính chất gì không?
+Các bạn hãy thử thứ tự các đỉnh được xét là (A, B, C), (B, C, A) rồi lại thử thứ tự các đỉnh là (C, B, A), (B, A, C). Các bạn có thấy điều gì đặc biệt không?
+Nếu các đỉnh được xét theo thứ tự thuận chiều kim đồng hồ thì diện tích đại số sẽ là một số
+dương và ngược lại nếu các đỉnh được xét theo thứ tự ngược chiều kim đồng hồ thì diện tích đại số sẽ là một số
+âm. 
+Mệnh đề trên có thể chứng minh rất đơn giản bằng hình học nhưng ở đây coi như ta công nhận mệnh đề trên.
+Mệnh đề trên được sử dụng khá phổ biến, đặc biệt là trong thuật toán tìm bao lồi. Ở trong
+khóa học này mình sẽ không giới thiệu về bao lồi do đây là một nội dung khó. Tuy nhiên, nếu bạn nào có hứng thú thì có thể tìm hiểu thêm về bao lồi và các ứng dụng của nó với các bài toán hình học.
+
+Xác định một điểm có thuộc tam giác hay không
+Bây giờ, ta có một bài toán như sau:
+Cho toạ độ một điểm và toạ độ ba đỉnh một tam giác trên hệ
+tọa độ Descartes. Xác định xem điểm đó có thuộc vào tam giác đã cho hay không.
+
+Từ những hiểu biết về diện tích tam giác, các bạn có nghĩ ra là chúng ta phải làm thế nào không?
+Các bạn có nhận xét gì về diện tích của ba tam giác ABD, BCD và CAD so với tam giác ABC?
+
+Ta thấy ngay được .
+ Do đó, để kiểm tra một điểm có thuộc tam giác hay không ta chỉ cần kiểm tra xem liệu 3 tam giác được tạo ra bằng việc kết hợp 2 đỉnh của tam giác và đỉnh cần tìm có bằng diện tích tam giác đang kiểm tra hay không. Nên ghi nhớ diện tích ở đây sẽ là diện tích
+ hình học.
+
+Kết luận
+Qua bài này chúng ta đã nắm về Tính diện tích tam giác.
+Bài sau chúng ta sẽ tìm hiểu về Quy hoạch động.
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Tính diện tích tam giác - Phần 2 dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

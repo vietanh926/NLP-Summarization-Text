@@ -1,0 +1,1564 @@
+
+
+
+
+
+
+
+
+
+Cấu trúc dữ liệu & giải thuật là gì? | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Cấu trúc dữ liệu & giải thuật là gì?
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (17 đánh giá)
+                    
+
+
+
+                        Tạo bởi huulam3011
+
+
+                        Cập nhật lần cuối 12:00 15-05-2022
+
+
+72.708 lượt xem
+                    
+
+3 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Cấu trúc dữ liệu & giải thuật là gì?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cấu trúc dữ liệu & giải thuật là gì?
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi huulam3011
+
+
+72.708
+
+
+3
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Cấu trúc dữ liệu & giải thuật là gì?
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu về cấu trúc dữ liệu và giải thuật. Trước hết, hãy xem
+cấu trúc dữ liệu và giải thuật là gì 
+nhé!
+
+Nội dung
+Trong bài học này chúng ta sẽ cùng nhau tìm hiểu về:
+
+Giới thiệu khái niệm cấu trúc dữ liệu và giải thuật Tầm quan trọng của cấu trúc dữ liệu và giải thuật Cài đặt môi trường 
+
+Khái niệm cấu trúc dữ liệu và giải thuật
+Cấu trúc dữ liệu là gì?
+Cấu trúc dữ liệu là một cách lưu dữ liệu trong máy tính sao cho nó có thể được sử dụng một cách hiệu quả. Trong thiết kế nhiều loại chương trình, việc chọn cấu trúc dữ liệu là vấn đề quan trọng. Thông thường, một
+ cấu trúc dữ liệu được chọn cẩn thận sẽ cho phép thực hiện thuật toán hiệu quả hơn.
+Khi đi vào chi tiết từng cấu trúc dữ liệu, mình sẽ cho các bạn thấy được việc áp dụng chính xác cấu trúc dữ liệu sẽ giúp cho chúng ta giải quyết vấn đề hiệu quả như thế nào.
+
+Lưu ý: 
+
+Cấu trúc dữ liệu là tập hợp các kiểu dữ liệu được sắp xếp theo một trật tự cụ thể
+Cấu trúc dữ liệu khác với kiểu dữ liệu cấu trúc Mỗi cấu trúc dữ liệu đều có điểm mạnh và điểm yếu Không có một cấu trúc dữ liệu nào tốt cho mọi bài toán 
+
+Một số cấu trúc dữ liệu cơ bản: stack, queue, array, list, graph, tree, … 
+
+Cấu trúc dữ liệu cây nhị phân
+Cấu trúc dữ liệu được chi thành 2 loại là : tuyến tính và phi tuyến tính. Bạn có thể dễ dàng tìm thấy định nghĩa lý thuyết cũng như ưu nhược điểm của từng dạng cấu trúc dữ liệu này nên để đơn giản hóa, ở đây mình chỉ tập trung
+ vào việc so sánh giữa 2 loại trong bảng sau:
+
+
+
+
+CTDL TUYẾN TÍNH
+
+CTDL PHI TUYẾN TÍNH
+
+
+Các phần tử được sắp xếp theo thứ tự lần lượt, nối tiếp nhau.
+các phần tử được sắp xếp theo thứ bậc trong đó một phần tử sẽ được kết nối với một hoặc nhiều phần tử.
+
+
+Có thể được duyệt qua tất cả các phần tử một cách tuần tự trong một lần chạy. (nếu bắt đầu ở phần tử đầu tiên)
+Có thể không duyệt qua tất cả các phần tử trong một lần chạy do cấu trúc thứ bậc.
+
+
+Độ phức tạp về thời gian tăng theo kích thước dữ liệu.
+Độ phức tạp về thời gian thường không đổi
+
+
+Không phải là lựa chọn tốt nhất vì sự phức tạp trong hoạt động của các chương trình có độ phức tạp cao
+Các cấu trúc khác nhau sử dụng bộ nhớ theo những cách hiệu quả khác nhau tùy thuộc vào nhu cầu.
+
+
+
+Ví dụ:
+1. Mảng - Arrays: các phần tử trong mảng có cùng kiểu dữ liệu, được sắp xếp liên tục trong bộ nhớ.
+2. Ngăn xếp - Stack: các phần tử được lưu trữ theo nguyên tắc LIFO. Nghĩa là, phần tử cuối cùng được lưu trữ trong ngăn xếp sẽ bị xóa đầu tiên.
+3. Hàng đợi - Queue: Cấu trúc dữ liệu hàng đợi hoạt động theo nguyên tắc FIFO trong đó phần tử đầu tiên được lưu trữ trong hàng đợi sẽ bị loại bỏ trước.
+4. Danh sách liên kết - Linked List: các phần tử dữ liệu được kết nối thông qua một loạt các nút. Và, mỗi nút chứa các mục dữ liệu và địa chỉ của nút tiếp theo.
+
+
+Ví dụ:
+
+Đồ thị - Graph: mỗi nút được gọi là đỉnh và mỗi đỉnh được nối với các đỉnh khác thông qua các cạnh.
+Cây - Tree: Tương tự như đồ thị, cây cũng là một tập hợp các đỉnh và các cạnh. Tuy nhiên, trong cấu trúc dữ liệu cây, chỉ có thể có một cạnh giữa hai đỉnh.
+
+
+
+
+
+Vậy như thế nào là một cấu trúc dữ liệu hiệu quả?
+
+Lưu trữ chính xác, đầy đủ, phù hợp dữ liệu lưu trữ  Thuận tiện truy xuất và xử lý dữ liệu Tối ưu về bộ nhớ Tốc độ truy vấn nhanh 
+
+Giải thuật là gì?
+Một
+giải thuật (thuật toán), là một tập hợp hữu hạn các hướng dẫn được xác định rõ ràng, có thể thực hiện được bằng máy tính, thường để giải quyết một lớp vấn đề hoặc để thực hiện một phép tính. Các thuật toán luôn rõ ràng và được sử dụng chỉ rõ
+ việc thực hiện các phép tính, xử lý dữ liệu, suy luận tự động và các tác vụ khác.
+
+Nói một cách đơn giản
+Thuật toán là tập hợp các hướng dẫn được xác định rõ để giải quyết một vấn đề cụ thể. 
+
+Vậy như thế nào là một giải thuật (thuật toán) tốt?
+
+Có đầu vào và đầu ra được xác định chính xác. Mỗi bước trong thuật toán phải rõ ràng. Thuật toán hiệu quả (tốn ít bộ nhớ, hiểu & xử lý nhanh, chính xác,...) trong số nhiều cách khác nhau để giải quyết một vấn đề.
+Nên được viết theo cách có thể được sử dụng trong các ngôn ngữ lập trình khác nhau chứ không phụ thuộc vào một ngôn ngữ bất kỳ.
+
+Một số các thuật toán phổ biến như sắp xếp, tìm kiếm, DFS, BFS, … 
+Ví dụ: Thuật toán tính và hiển thị tổng 2 số nguyên a,b được nhập vào từ bàn phím:
+
+Bước 1: Bắt đầu chương trình Bước 2: Nhập 2 số a, b từ bàn phím Bước 3: Kiểm tra 2 số a,b có phải số nguyên. 
+
+3.1 Nếu 2 số a,b không là số nguyên thì đi tới bước 6.
+3.2. Nế 2 số a,b là số nguyên thì đi tới bước 4
+
+Bước 4: Gán tổng 2 số a,b cho biến s Bước 5: Hiển thị biến s ra màn hình Bước 6: Kết thúc chương trình 
+Để dễ hiểu hơn, mình có vẽ ra Flowchart minh họa thuật toán trên. Hoặc bạn có thể tham khảo cách triển khai từ yêu cầu bài toán ra thuật toán và viết chương trình với python qua bài
+
+Tính & hiển thị tổng 2 số nguyên
+
+
+Khá đơn giản phải không nào? Bạn có thể củng cố bằng cách tự mình viết ra thuật toán và vẽ flowchart tương ứng cho các yêu cầu sau: 
+
+Tìm và hiển thị ra màn hình số lớn nhất trong 3 số a,b,c nhập từ bàn phím. Tính và hiển thị giai thừa một số n nhập từ bàn phím. Giải phương trình ax2 + bx + c = 0 
+Đừng quên để lại đáp án và thảo luận với cộng đồng ở phần bình luận nhé!
+
+Tầm quan trọng của cấu trúc dữ liệu và giải thuật
+Chúng ta hãy tưởng tượng mình là quản lý của một thư viện. Chúng ta để sách ngổn ngang ở khắp mọi nơi không theo một nguyên tắc nào cả. Do đó mỗi khi có ai đó muốn mượn sách thì chúng ta lại phải đi tìm từng cuốn một. Chúng ta cũng
+ không có một quy trình rõ ràng cho việc cho mượn sách hoặc nhập sách vào kho để quản lý sách. Hậu quả cho những việc trên là thư viện trở nên rất hỗn loạn và hoạt động không hiệu quả.
+Bây giờ hãy tưởng tượng lại theo một hướng khác. Chúng ta có những kệ sách được gắn chủ đề như Tiểu thuyết, Truyện ngắn, Thơ, … Mỗi khi cần một cuốn sách, ta biết ngay nơi chứa cuốn sách đó và tìm kiếm rất dễ dàng. Chúng ta có một
+ quy trình mượn, nhập sách rõ ràng nên có thể biết ngay sự thay đổi của sách trong thư viện. Kết quả là thư viện hoạt động rất hiệu quả. Ở đây, việc quản lý sách theo thư mục chính là
+“cấu trúc dữ liệu” còn quy trình mượn, nhập sách chính là
+“thuật toán”.
+Qua ví dụ trên các bạn có thể thấy: một cấu trúc dữ liệu tốt sẽ giúp ta quản lí dữ liệu một cách hiệu quả, chính xác hơn; một thuật toán tốt sẽ giúp xử lí dữ liệu nhanh chóng, rõ ràng hơn.
+
+Vậy theo bạn, không học cấu trúc dữ liệu & Giải thuật thì có làm được phần mềm không và sản phẩm dạng nào sẽ bị ảnh hưởng bởi CTDL và GT trong thực tế?
+
+Đôi khi trong quá trình học, chúng ta dễ dàng bỏ qua hoặc xem nhẹ việc áp dụng cấu trúc dữ liệu và giải thuật vì ít gây ảnh hưởng đến phần mềm của bạn. Tuy nhiên, để xử lý một bài toán trong thực tế, bạn nên lưu ý đến các vấn đề sau:
+
+Không gian lưu trữ  Thời gian thực hiện  Khả năng lập trình Yêu cầu chất lượng sản phẩm  
+Chỉ sau khi phân tích yêu cầu bài toán một cách cẩn thận chúng ta mới có thể biết được cấu trúc dữ liệu và giải thuật nào là thích hợp nhất để giải quyết ứng dụng thực tế.
+
+Cài đặt môi trường
+Xuyên suốt khoá học này, mình sẽ sử dụng IDE chính là 
+CodeBlocks bản 20.03, phiên bản g++
+sẽ là phiên bản đi liền với CodeBlocks. Nào! chúng ta cùng tiến hành cài đặt.
+Bước 1: Bạn truy cập vào trang chủ CodeBlocks theo đường dẫn bên dưới rồi chọn
+Download ở góc bên trái màn hình 
+
+Code::Blocks - Code::Blocks (codeblocks.org)
+
+ 
+Bước 2: Tiếp theo, bạn chọn
+Download the binary release
+
+Bước 3: Chọn phiên bản
+codeblocks-20.03mingw-setup. Các bạn có thể chọn download qua 
+FossHUB hoặc Sourceforge.net.
+
+Bước 4: Các bạn giữ nguyên tất cả các lựa chọn mặc định và cài đặt CodeBlocks
+Bước 5: Sau khi hoàn tất cài đặt, các bạn khởi động CodeBlocks. Chọn mục
+Settings > Compiler
+
+Bước 6: Các bạn tích vào mục
+Have g++ follow the C++14 ISO C++ language standard
+
+Bước 7: 
+Các bạn chọn mục Toolchain executables. Nếu hiện đường dẫn trong mục
+Compiler's installation directory là được. Nếu không hiện các bạn chọn
+Auto-detect
+
+Vậy là chúng ta đã hoàn thành việc cài đặt chương trình Codeblocks. Việc cài đặt này tương đối đơn giản, tuy nhiên nếu trong quá trình thực hiện bạn gặp bất kỳ khó khăn gì thì đừng ngần ngại để lại comment bên dưới để được hỗ trợ nhé!
+
+Kết luận
+Qua bài này chúng ta đã nắm được khái niệm cấu trúc dữ liệu và giải thuật, tầm quan trọng của chúng cũng như cài đặt môi trường.
+Bài sau chúng ta sẽ tìm hiểu về Độ phức tạp thời gian BigO.
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Cấu trúc dữ liệu & giải thuật là gì? dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phát Nguyễn
+đã đánh giá
+21:10 21-07-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+giusehoangtrantuankhanh
+đã đánh giá
+15:12 28-02-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xsieuvl2002
+đã đánh giá
+23:37 28-01-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr_Fern
+đã đánh giá
+07:51 07-12-2022
+
+
+
+
+
+
+
+
+
+                            Greate
+                        
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hoamivole
+đã đánh giá
+18:21 06-08-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+Xem thêm ...
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ankk.__
+đã bình luận
+16:20 17-08-2023
+
+
+em cài đúng file rồi nhưng trong phần setting compiler " GNU GCC Compiler " của em không có Have g++ follow the C++14 ISO C++ language standard. 
+Em có thể dùng " GNU GCC Compiler for ARM" được không, tại trong đó có Have g++ follow the C++14 ISO C++ language standard. 
+
+
+
+
+0
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monster013
+đã bình luận
+09:22 02-08-2022
+
+
+Em không tìm thấy Have g++ follow the C++14 ISO C++ language standard mọi người giúp em với
+
+
+
+
+1
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+Xem tất cả 1 câu trả lời
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

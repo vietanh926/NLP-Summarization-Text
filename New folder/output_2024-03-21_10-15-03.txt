@@ -1,0 +1,1785 @@
+
+
+
+
+
+
+
+
+
+Các kiến thức cần thiết để theo dõi khoá học | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Các kiến thức cần thiết để theo dõi khoá học
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (6 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 13:27 15-05-2022
+
+
+27.064 lượt xem
+                    
+
+5 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Các kiến thức cần thiết để theo dõi khoá học
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Các kiến thức cần thiết để theo dõi khoá học
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+27.064
+
+
+5
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Các kiến thức cần thiết để theo dõi khoá học
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Trong khoá học này, mình sẽ hướng dẫn cho các bạn bằng ngôn ngữ C++. Do đó, để có thể tiếp thu khoá học một cách tốt nhất, mình sẽ giới thiệu sơ qua các kiến thức cơ bản mà các bạn sẽ cần biết.
+
+
+Nội dung
+Để có thể hiểu được bài học này một cách tốt nhất, các bạn nên có kiến thức cơ bản về các phần:
+
+Đã xem qua Bài 1 & cài đặt môi trường CodeBlocks
+
+Trong bài học này chúng ta sẽ cùng nhau tìm hiểu về:
+
+Các kiến thức C++ cần có 
+
+Các kiến thức C++ cần có
+Để có thể tiếp thu khóa học này tốt nhất, mình khuyên các bạn nên xem qua
+khóa học về C++ cơ bản. Đó là một khoá học khá đầy đủ, cung cấp cho các bạn các kiến thức nền tảng vững chắc. Trong bài học ngày hôm nay, mình sẽ chỉ giới thiệu các phần mà khoá học chưa có.
+
+Nhập, xuất dữ liệu thông qua file
+Cú pháp
+Trước giờ các bạn có thể đã quen với việc nhập và in ra dữ liệu trên màn hình console. Tuy nhiên, cách làm đó sẽ không ổn nếu dữ liệu cần nhập vào hay dữ liệu cần in ra là quá dài. Do đó, ta sẽ tiến hành đọc ghi ra file để giảm
+ thời gian nhập liệu.
+Có khá nhiều cách để nhập và in ra dữ liệu qua file trong C++ nhưng mình sẽ hướng dẫn cách đơn giản và thuận tiện nhất đó là dùng hàm freopen().
+Cấu trúc của hàm freopen() như sau: FILE * freopen ( const char * filename, const char * mode, FILE * stream ); trong đó:
+
+filename: là tên file được mở mode: là cách truy cập file. Trong khóa học này, ta sẽ chỉ quan tâm đến hai cách truy cập file là “r” để đọc và “w” để ghi
+stream: con trỏ tới đối tượng FILE được nhận diện để mở lại
+
+Sau khi gọi lệnh trên thì các bạn có thể dùng 
+cin, cout
+để đọc và ghi dữ liệu như bình thường.
+Ví dụ:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main (){
+    freopen("Kteam.txt","w",stdout);
+    cout << "Hello World" << endl;
+    
+    return 0;
+}
+
+Khi này, nếu các bạn vào folder chứa file code vừa thực thi sẽ thấy có một file text là “Kteam.txt”. Các bạn mở với Notepad hoặc Codeblocks sẽ thấy dòng chữ “Hello World”.
+Hoặc để đọc dữ liệu
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main (){
+    freopen("Kteam.txt","r",stdin);
+    string s;
+    getline(cin, s);
+    cout << s << endl;
+    
+    return 0;
+}
+
+
+Tạo các file text trong CodeBlocks
+Trong khoá học này, các file input để nhập dữ liệu và output để ghi dữ liệu của mình sẽ có tên lần lượt theo dạng “{Tên file}.inp” và “{Tên file}.out”.
+Để tạo ra một file text trong CodeBlocks các bạn có thể làm như sau:
+Bước 1: Chọn File -> New -> New empty file
+
+Bước 2: Chỉnh Save as Type thành All files
+sau đó gõ tên file text vào ô File name rồi chọn 
+Save. Lưu ý là các bạn sẽ cần ghi cả đuôi file.
+
+Bước 3: Để mở file text trong CodeBlocks các bạn chọn
+File -> Open rồi chọn file cần mở
+
+Bước 4: Khi các bạn mở các file đuôi “.inp” hoặc “.out” lần đầu sẽ có thông báo sau. Các bạn chọn
+Open it inside the Code::Blocks editor
+
+Bước 5: Như vậy là các bạn đã có thể tạo và mở một file text trong CodeBlocks
+
+
+Lập trình hướng đối tượng trong C++
+Lập trình hướng đối tượng là một mảng có rất nhiều vấn đề để nói đến. Tuy nhiên, trong bài học này, mình sẽ chỉ đề cập đến các yếu tố có ảnh hưởng trực tiếp đến khoá học.
+
+Lập trình hướng đối tượng là gì?
+Trong khuôn khổ khoá học này, các bạn có thể hiểu đơn giản lập trình hướng đối tượng là gom tất cả các tính chất của một đối tượng nào đó về thành một lớp. Khi đó, lớp sẽ chứa tất cả các thông tin.
+Ví dụ: Đề bài cho các thông tin về một con người gồm chiều cao, cân nặng, giới tính, tuổi. Thay vì phải tạo 4 mảng để lưu trữ các thông tin đó thì các bạn có thể tạo một lớp tên là “Con người” chứa 4 thông tin đó. Khi đó, code của
+ ta sẽ gọn gàng và dễ code hơn rất nhiều.
+
+Cú pháp
+Có hai cách để tạo ra một lớp trong C++ là dùng từ khoá
+struct và 
+class. Với lập trình thuật toán thì sự khác biệt của hai từ khoá này là không nhiều nên các bạn dùng từ khoá nào cũng được.
+Đối với struct 
+thì biến và các hàm trong nó có thể truy cập từ bên ngoài mà không cần điều kiện gì nhưng với
+class, nếu các bạn muốn truy cập vào biến hay hàm nào thì sẽ cần đặt dưới từ khoá
+public.
+Ví dụ về cách sử dụng hai từ khoá:
+Từ khoá struct:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+struct Human{
+    string name;
+    int height;
+    int age;
+};
+
+int main(){
+    Human Kteam;
+    Kteam.age = 18;
+    Kteam.height = 170;
+    Kteam.name = "Kteam";
+
+    cout << Kteam.age << endl;
+    
+    return 0;
+}
+
+Từ khoá class:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+class Human{
+
+    // Không thể truy cập từ bên ngoài
+    string address;
+
+    public:
+        // Có thể truy cập từ bên ngoài
+        string name;
+        int height;
+        int age;
+};
+
+int main(){
+    Human Kteam;
+    Kteam.age = 18;
+    Kteam.height = 170;
+    Kteam.name = "Kteam";
+
+    cout << Kteam.age << endl;
+    
+    return 0;
+}
+
+
+Constructor
+Constructor trong C++ là một phương thức được gọi tự động tại thời điểm tạo đối tượng. Mặc định trong một
+class hoặc 
+struct sẽ luôn có một constructor ngầm định. Tuy nhiên, ta có thể viết lại constructor để cung cấp các giá trị cho các biến của đối tượng.
+
+#include<bits/stdc++.h>
+using namespace std;
+
+struct Human{
+
+    // Không thể truy cập từ bên ngoài
+    string address;
+
+    public:
+        // Có thể truy cập từ bên ngoài
+        string name;
+        int height;
+        int age;
+
+        Human(string _name = "", int _height = 0, int _age = 0, string _address = ""){
+            name = _name;
+            height = _height;
+            age = _age;
+            address = _address;
+        }
+};
+
+int main(){
+    Human Kteam = Human("Kteam", 170, 20, "Hanoi");
+
+    cout << Kteam.age << endl;
+    
+    return 0;
+}
+
+Có hai lưu ý cho các bạn ở đây:
+
+
+Constructor phải đặt dưới từ khoá public
+Các tham số truyền vào constructor phải có giá trị mặc định
+
+
+
+Định nghĩa toán tử
+Giả sử ta có một class để thể hiện phân số như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+class Fraction{
+    public:
+        int x; // Tử số
+        int y; // Mẫu số
+        
+        Fraction(int _x = 0, int _y = 0){
+            x = _x;
+            y = _y;
+        }
+};
+
+int main(){
+
+    return 0;
+}
+
+Giả sử ta muốn so sánh hai phân số này thì sẽ làm thế nào. Ta có thể viết một hàm bên ngoài nhận tham số là hai đối tượng nhưng làm như vậy thì hơi dài dòng. Liệu có cách nào để so sánh bằng toán tử < như so sánh hai số nguyên thông
+ thường không? Câu trả lời là có. Ta sẽ tiến hành định nghĩa toán tử < cho 
+class của chúng ta.
+Cú pháp để định nghĩa lại một toán tử trong class
+hoặc struct 
+là một hàm như sau:
+{kiểu dữ liệu trả về} operator
+{toán tử} (const
+{kiểu dữ liệu đối tượng so sánh} {tên đối tượng so sánh}) { … }
+Ví dụ như toán tử < để so sánh hai phân số:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+class Fraction{
+    public:
+        int x; // Tử số
+        int y; // Mẫu số
+
+        Fraction(int _x = 0, int _y = 0){
+            x = _x;
+            y = _y;
+        }
+
+        bool operator < (const Fraction &op) {
+            return x * op.y < y * op.x;
+        }
+};
+
+int main(){
+    Fraction x = Fraction(1, 2);
+    Fraction y = Fraction(2, 3);
+    if(x < y) cout << "x < y" << endl;
+    else cout << "x > y" << endl;
+
+    return 0;
+}
+
+Ví dụ về toán tử + để cộng hai phân số:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+class Fraction{
+    public:
+        int x; // Tử số
+        int y; // Mẫu số
+
+        Fraction(int _x = 0, int _y = 0){
+            x = _x;
+            y = _y;
+        }
+
+        Fraction operator + (const Fraction &op) {
+            int lcm = (y * op.y) / gcd(y, op.y);
+            return Fraction(x * (lcm / y) + op.x * (lcm / op.y), lcm);
+        }
+};
+
+int main(){
+    Fraction x = Fraction(1, 2);
+    Fraction y = Fraction(2, 3);
+    Fraction sum = x + y;
+    cout << sum.x << " " << sum.y << endl;
+
+    return 0;
+}
+
+
+Kết luận
+
+Qua bài này chúng ta đã nắm về các kiến thức cơ bản trong khoá học
+Bài sau chúng ta sẽ tìm hiểu về Độ phức tạp thời gian BigO
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Các kiến thức cần thiết để theo dõi khoá học dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tannguyen1619
+đã đánh giá
+15:29 09-10-2023
+
+
+
+
+
+
+
+
+
+                            Tuyệt dời
+                        
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanh200419
+đã đánh giá
+22:39 24-04-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tieu.ngocanh
+đã đánh giá
+08:27 15-03-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xuân Nam
+đã đánh giá
+16:58 15-08-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mart Đạt
+đã đánh giá
+20:55 13-06-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+Xem thêm ...
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ankk.__
+đã bình luận
+07:16 23-06-2023
+
+
+Admin có thể ra video hướng dẫn cách quản lý và kiểm soát thư mục và tệp con được không, mình bị rối và không biết cách sắp xếp cho phù hợp cũng như để dễ dàng kiểm soát hơn
+
+
+
+
+0
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gàcodenewbie
+đã bình luận
+13:37 20-11-2022
+
+
+cho em hỏi
+khi code như này thì dùng constructor không cần đặt dưới public:
+thế có đúng kh ạ
+#include<bits/stdc++.h>
+using namespace std;
+struct Human
+{
+    string address;
+    string name;
+    int height;
+    int age = 2022;
+    
+    Human(string _name = "", int _height = 0, int _age = 0, string _address = "")
+    {
+        name = _name;
+        height = _height;
+        age = age - _age;
+        address = _address;
+    }
+};
+int main(){
+    Human tung = Human("Tung", 175, 2003, "Hanoi");
+    cout << tung.name << endl;
+    cout << tung.height << endl;
+    cout << tung.age << endl;
+    cout << tung.address << endl;
+    return 0;
+}
+
+
+
+
+2
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phungduongd
+đã bình luận
+17:06 06-03-2022
+
+
+return Fraction(x * (lcm / y) + op.x * (lcm / op.y), lcm);
+dòng này có phải đệ quy không ạ 
+nếu đúng tại sao lại có hai thma số truyề vào vậy ạ
+ 
+
+
+
+
+1
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thaihiep
+đã bình luận
+17:06 08-01-2022
+
+
+int lcm = (y * op.y) / gcd(y, op.y);
+dạ cho em hỏi dòng code này gcd có nghĩa là gì vậy ạ ? 
+ 
+
+
+
+
+1
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+Xem tất cả 1 câu trả lời
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1459 @@
+
+
+
+
+
+
+
+
+
+BFS và DFS | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+BFS và DFS
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (1 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 15:14 15-05-2022
+
+
+27.172 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+BFS và DFS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BFS và DFS
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+27.172
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            BFS và DFS
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Một trong những kĩ thuật cơ bản nhất liên quan đến cây đó chính là duyệt toàn bộ cây đó. Vậy thì có những phương pháp nào để duyệt một cây? Hãy cùng nhau tìm hiểu trong bài học ngày hôm nay nhé!
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khoá học
+Đồ thị và cây
+Đệ quy
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+BFS DFS Mở rộng về cây 
+
+BFS
+Khái niệm
+Thuật toán tìm kiếm theo chiều rộng (thường gọi là BFS) là một thuật toán duyệt bắt đầu từ gốc, sau đó lần lượt xét qua các node của một cây theo ưu tiên về độ sâu từ nhỏ đến lớn.
+
+Ở đây có một khái niệm mới là “độ sâu”. Độ sâu của một node được định nghĩa là số cạnh trên đường đi từ node đang xét đến node gốc.
+Ví dụ:
+
+
+Đề bài
+Cho một cây gồm  đỉnh
+. Hãy in ra các đỉnh được xét lần lượt trong quá trình BFS. Coi đỉnh 1 là gốc.
+Input:
+Dòng 1: Gồm số nguyên  thể hiện cho số đỉnh của cây
+.
+ dòng tiếp theo: Gồm hai số nguyên
+  thể
+ hiện một cạnh giữa  và
+ trên cây
+Output:
+Dòng 1: Một dòng thể hiện các đỉnh được đi qua theo thứ tự trong quá trình BFS
+Ví dụ:
+
+
+
+Input
+Output
+
+
+
+8
+1 2
+2 3
+3 4
+2 5
+1 6
+6 7
+3 8
+
+
+1 2 6 3 5 7 4 8
+
+
+
+
+
+
+
+
+
+
+
+Cây trong đề bài chính là cây được mình dùng làm ví dụ ở phần khái niệm.
+
+Cách cài đặt
+Trước hết, chúng ta sẽ cần tìm cách để thể hiện một cạnh của cây. Cách được dùng phổ biến nhất là dùng danh sách kề, tức là mỗi node sẽ có một danh sách lưu lại tất cả các node kề (node có cạnh trực tiếp) với node đó. Trong C++,
+ các bạn có thể dùng vector để lưu danh sách kề. Để biết cụ thể cách làm, hãy đọc phần code nhé.
+Tiếp theo sẽ là cách cái đặt thuật toán BFS . Tư tưởng của BFS đơn giản là như sau:
+
+Khởi đầu, thêm node gốc vào hàng đợi Lấy node đầu tiên trong hàng đợi Đánh dấu node đã đi qua. Đây là một chi tiết quan trọng do một cạnh trên cây đang xét là không có hướng nên nếu không đánh dấu thì một node sẽ được xét nhiều lần
+Loại bỏ node đang xét khỏi hàng đợi Thêm các node kề chưa được đánh dấu với node đang xét vào cuối hàng đợi
+Quá trình kết thúc khi hàng đợi rỗng 
+
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n;
+bool mark[MaxN];
+vector<int> adj[MaxN];
+
+void BFS(){
+    queue<int> q;
+    q.push(1);
+    while(!q.empty()){
+        int u = q.front();
+        q.pop();
+        mark[u] = 1;
+        cout << u << " ";
+        for(int v : adj[u])
+        if(!mark[v]) q.push(v);
+    }
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n - 1 ; ++i){
+        int u, v;
+        cin >> u >> v;
+        // adj[u] là tập tất cả các đỉnh kề u
+       // Khi ta thêm đỉnh v vào adj[u] có nghĩa là có cạnh trực tiếp theo hướng từ u tới v
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+    }
+    BFS();
+
+    return 0;
+}
+
+
+Mở rộng
+Vừa rồi mình trình bày BFS trên cây. Tuy nhiên, ta có thể tiến hành BFS trên một đơn đồ thị tổng quát với cùng một ý tưởng như trên.
+Độ phức tạp của BFS là  trong đó,
+ là số cạnh,  là số đỉnh của một đồ thị.
+
+DFS
+Khái niệm
+Thuật toán tìm kiếm theo chiều sâu (thường gọi là DFS) là một thuật toán duyệt khởi đầu tại node gốc và đi xa nhất có thể theo một nhánh. Các bạn sẽ rõ hơn về điều này khi ta đi vào phần sau.
+
+Đề bài
+Cho một cây gồm  đỉnh
+. Hãy in ra các đỉnh được xét lần lượt trong quá trình DFS. Coi đỉnh 1 là gốc.
+Input:
+Dòng 1: Gồm số nguyên  thể hiện cho số đỉnh của cây
+.
+ dòng tiếp theo: Gồm hai số nguyên
+  thể hiện một cạnh giữa
+ và
+ trên cây
+Output:
+Dòng 1: Một dòng thể hiện các đỉnh được đi qua theo thứ tự trong quá trình DFS
+Ví dụ:
+
+
+
+
+Input
+Output
+
+
+
+8
+1 2
+2 3
+3 4
+2 5
+1 6
+6 7
+3 8
+
+
+1 2 3 4 8 5 6 7
+
+
+
+
+
+
+
+
+
+
+
+Cây trong đề bài chính là cây ở phần trước.
+
+Cách cài đặt
+Tiến trình DFS được trình bày như sau:
+
+Xuất phát từ node gốc Đánh dấu node đang xét hiện tại Chọn một node kề với node đang xét mà chưa bị đánh dấu. Tiếp tục xét node kề đó
+Nếu như không có node kề thoả mãn, quay trở lại xét node trước khi xét node hiện tại
+Quá trình kết thúc khi không còn node để xét
+
+Để có thể code DFS, thông thường ta sẽ dùng đệ quy.
+
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n;
+bool mark[MaxN];
+vector<int> adj[MaxN];
+
+void DFS(int u){
+    cout << u << " ";
+    mark[u] = 1;
+    for(int v : adj[u])
+    if(!mark[v]) DFS(v);
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n - 1 ; ++i){
+        int u, v;
+        cin >> u >> v;
+        // adj[u] là tập tất cả các đỉnh kề u
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+    }
+    DFS(1);
+
+    return 0;
+}
+
+Độ phức tạp của DFS giống như BFS và là  trong đó,
+ là số cạnh,  là số đỉnh của một đồ thị.
+
+Mở rộng
+Quan hệ cha - con
+Từ quá trình DFS, ta sẽ có một kiểu quan hệ mới giữa hai node trên cây đó là quan hệ “cha – con”. Một node
+ được gọi là node cha của node
+ khi giữa  và
+ có cạnh nối trực tiếp và
+ được xét trước  trong quá trình DFS.
+Lưu ý: Quan hệ cha – con là quan hệ tương đối, tức là có thể thay đổi phụ thuộc vào cách node gốc được chọn.
+
+Node lá
+Một node được gọi là node lá khi nó không có bất cứ một con nào.
+
+Cây nhị phân
+Một cây được gọi là cây nhị phân khi mỗi node cha có nhiều nhất hai node con và một node chỉ có duy nhất một node cha.
+Ví dụ:
+
+
+Kết luận
+
+Qua bài này chúng ta đã nắm được về BFS và DFS
+Bài sau chúng ta sẽ tìm hiểu về Segment Tree
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học BFS và DFS dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ducanh2k3bn
+đã đánh giá
+20:54 18-04-2023
+
+
+
+
+
+
+
+
+
+                            quá hay ạ 
+
+                        
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

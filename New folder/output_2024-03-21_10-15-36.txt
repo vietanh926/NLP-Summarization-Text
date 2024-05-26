@@ -1,0 +1,1854 @@
+
+
+
+
+
+
+
+
+
+Linked List | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Linked List
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (3 đánh giá)
+                    
+
+
+
+                        Tạo bởi huulam3011
+
+
+                        Cập nhật lần cuối 13:31 15-05-2022
+
+
+14.023 lượt xem
+                    
+
+2 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Linked List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linked List
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi huulam3011
+
+
+14.023
+
+
+2
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Linked List
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau đi tìm hiểu về
+Linked List, một trong những cấu trúc dữ liệu được ứng dụng phổ biến nhất trong thực tế. Hãy cùng nhau đi tìm hiểu sao nó lại được sử dụng nhiều vậy nhé!
+
+Nội dung
+Để có thể tiếp thu bài học một cách tốt nhất, các bạn nên có những kiến thức cơ bản về các phần:
+
+Biến, kiểu dữ liệu, toán
+ tử trong C++ Câu điều kiện, vòng
+ lặp, hàm trong C++
+Mảng trong C++
+Các kiến thức cần thiết để theo dõi khóa học   
+
+Trong bài học này, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Khái niệm Linked List
+Cơ chế hoạt động của Linked List
+So sánh Linked List
+và mảng 
+
+Bài toán đặt ra
+Chúng ta có một dãy số gồm n phần tử. Hãy tìm cách chèn vào vị trí i một giá trị mà không làm thay đổi vị trí tương đối của các phần tử trong dãy.
+Ví dụ: Ta có dãy [1, 4, 6, 2, 3, 5]. Sau khi chèn phần tử 7 vào vị trí thứ 3 ta sẽ được dãy [1, 4, 7, 6, 2, 3, 5].
+
+Lời giải ban đầu
+Thông thường, khi ta lưu trữ một dãy dưới dạng mảng mà chèn trực tiếp phần tử vào sẽ làm mất giá trị gốc ở vị trí đó. Do đó, ta nghĩ đến việc sẽ phải tạo ra một ô trống ở vị trí cần chèn. Từ đó, ta sẽ có ý tưởng sau: Dồn các phần
+ tử bắt đầu từ vị trí cần chèn đến cuối cùng về ô sau nó, khi đó, vị trí cần chèn sẽ trống.
+Khi triển khai dưới mô hình code ta sẽ có: Nếu như muốn chèn thêm phần tử ở vị trí k trong mảng, ta sẽ gán
+an+1 = an,
+an = an-1,
+ …, ak+1 = ak.
+
+
+Lúc này, đoạn an+1,
+an,
+an-1, …,
+ak+1 chính là đoạn
+an,
+an-1,
+an-2, …,
+ak trong mảng ban đầu, ta chỉ cần gán ak
+bằng giá trị cần chèn là coi như đã chèn được một phần tử mới vào dãy.
+
+Tuy nhiên, cách trên sẽ mất độ phức tạp O(n) do ta cần duyệt dãy để thực hiện phép gán và do kích thước mảng là cố định nên số phần tử chèn được là có giới hạn. Liệu có cách nào tối ưu hơn không?
+
+Nhận xét
+Ta thấy trong dãy trên, khi chèn phần tử mới vào vị trí k, chỉ có quan hệ trước sau giữa phần tử
+ak-1,
+ak và phần tử được chèn thêm là có sự thay đổi. Do đó, ta sẽ nghĩ cách làm sao chỉ thay đổi quan hệ của 3 phần tử này mà không làm ảnh hưởng đến các phần tử khác.
+
+Cách giải cải tiến
+Bây giờ, hãy cùng nhìn vào một ví dụ trong thực tế. Chúng ta có một hàng ngang gồm n người nắm tay nhau. Bây giờ, chúng ta muốn có thêm một người C vào vị trí giữa hai người A và B. Vậy thì chúng ta sẽ làm thế nào? Có phải là chúng
+ ta sẽ bảo 2 người A và B không nắm tay nhau nữa, tay khi nãy nắm lấy người B của người A thì nắm lấy tay người C, tay khi nãy nắm lấy người A của người B thì nắm lấy tay người C. Lúc này, người C sẽ trở thành một phần của hàng.
+Ví dụ minh hoạ trên chính là ý tưởng cơ sở của 
+Linked List. Bây giờ, để hiểu rõ hơn, chúng ta sẽ đi tìm hiểu chi tiết về
+Linked List.
+
+Khái niệm Linked List
+Linked List (tiếng Việt: danh sách liên kết) là một tập hợp tuyến tính các phần tử dữ liệu, với thứ tự không được đưa ra bởi vị trí vật lý của chúng trong bộ nhớ. Thay vào đó, mỗi phần tử chỉ
+ đến phần tử tiếp theo. Nó là một cấu trúc dữ liệu bao gồm một tập
+ hợp các nút cùng thể hiện một dãy.
+Định nghĩa trên là tương đối phức tạp và khó hiểu nên các bạn cũng không cần quá quan tâm để làm gì. Điều ta chú trọng là Linked List sẽ làm được gì.
+Một Linked List 
+sẽ có các phương thức cơ bản sau:
+
+Chèn một phần tử vào vị trí xác định Xoá một phần tử ở vị trí xác định 
+Trên thực tế, có rất nhiều kiểu Linked List
+như Single Linked List (Danh sách liên kết đơn), Double Linked List (Danh sách liên kết đôi), Circular Linked List (Danh sách liên kết vòng tròn) nhưng về cơ bản cách hoạt động của chúng là hoàn toàn giống nhau. Trong bài học
+ này, mình sẽ giới thiệu về Double Linked List.
+Bài học này, mình sẽ đi chi tiết vào cách thức hoạt động của
+Linked List. Có 3 lí do cho việc này:
+
+Đa phần các bài toán sẽ yêu cầu tuỳ biến Linked List
+Học về Linked List
+sẽ giúp các bạn hiểu phần nào cách sử dụng con trỏ
+Linked List là nền tảng cơ sở cho việc thiết kế rất nhiều các cấu trúc dữ liệu khác
+
+
+Cơ chế hoạt động của Linked List
+Nguyên tắc hoạt động
+Hãy quay lại một chút với định nghĩa trên, Linked List
+“là một cấu trúc dữ liệu bao gồm một tập hợp các nút cùng
+ thể hiện một dãy”. Do đó,
+Linked List là mỗi chuỗi các nút được kết nối với nhau.
+Mô hình của Linked List
+được thể hiện qua hình sau:
+
+
+Ta có một node mở đầu gọi là
+Head để nhận biết vị trí bắt đầu của dãy, mỗi node sẽ có hai con trỏ
+prv, nxt trong đó nxt là con trỏ được trỏ đến phần tử kế tiếp,
+prv là con trỏ được trỏ đến phần tử liền trước. Với phần tử đầu tiên (head),
+prv trỏ đến NULL, với phần tử cuối cùng, nxt trỏ đến NULL. Nếu nhìn lại ví dụ trong thực tế thì
+prv, nxt chính là hai tay của một người, người đầu và người cuối dãy dĩ nhiên chỉ cần nắm tay một người. Ngoài ra, trong mỗi
+node sẽ có một biến data để thể hiện cho giá trị
+node đó.
+Một node sẽ được code như sau:
+
+struct Node{
+    int data;
+    Node *prv, *nxt;
+
+    Node(int _data){
+        data = _data;
+        prv = NULL;
+        nxt = NULL;
+    }
+};
+
+
+Thêm phần tử vào Linked List
+Khi thêm một phần tử vào trong Linked List, sẽ có 4 trường hợp xảy ra:
+
+Linked List trống Thêm vào vị trí đầu Thêm vào sau vị trí cuối Thêm vào vị trí xác định 
+Bây giờ, chúng ta sẽ cùng nhau đi giải quyết từng vấn đề một.
+
+Linked List trống
+Lúc này, chúng ta sẽ cần gán head của 
+Linked List chính là
+node mới thêm vào
+
+Thêm vào vị trí đầu
+Cơ chế thêm vào vị trí đầu được thể hiện qua mô hình sau:
+
+Ta thấy ở đây có 3 sự thay đổi:
+
+prv của 
+head ban đầu sẽ trỏ về node mới nxt của 
+node mới sẽ trỏ về head ban đầu Cập nhật lại head là node mới
+
+prv của 
+node mới mặc định là NULL nên không cần thay đổi
+
+Thêm vào sau vị trí cuối
+Cơ chế thêm vào vị trí cuối được thể hiện qua mô hình sau:
+
+Ta thấy ở đây có 2 sự thay đổi:
+
+nxt của phần tử cuối trỏ về
+node mới prv của 
+node mới trỏ về phần tử cuối 
+nxt của 
+node mới mặc định là NULL nên không cần thay đổi
+
+Thêm vào vị trí xác định
+Cơ chế thêm vào vị trí xác định được thể hiện qua mô hình sau:
+
+Ta thấy ở đây có 4 sự thay đổi. Giả sử ta thêm phần tử vào vị trí k thì:
+
+nxt của 
+node k – 1 sẽ trỏ về node mới
+prv của 
+node mới sẽ trỏ về node k – 1
+nxt của 
+node mới sẽ trỏ về node k
+prv của 
+node k sẽ trỏ về node mới
+
+
+Code
+
+void addNewNode(int pos, int data){
+    Node* newNode = new Node(data);
+    if(head == NULL){
+        head = newNode;
+        sz++;
+        return;
+    }
+
+    if(pos == 1){ // Thêm vào đầu
+        newNode->nxt = head;
+        head->prv = newNode;
+        head = newNode;
+        sz++;
+        return;
+    }
+
+    if(pos == sz + 1){ // Thêm vào sau phần tử cuối cùng
+        Node* temp = head;
+        // Node temp sau thao tác này là node cuối cùng
+        while(temp->nxt != NULL) temp = temp->nxt;
+        newNode->prv = temp;
+        temp->nxt = newNode;
+        sz++;
+        return;
+    }
+
+    int count = 1;
+    Node* temp = head;
+    // Node temp sau thao tác này chính là node ở vị trí thứ pos
+    while(count < pos){
+        temp = temp->nxt;
+        count++;
+    }
+
+    newNode->nxt = temp;
+    newNode->prv = temp->prv;
+    newNode->prv->nxt = newNode;
+    temp->prv = newNode;
+    sz++;
+}
+
+
+Loại bỏ phần tử khỏi Linked List
+Tương tự với việc thêm, loại bỏ phần tử ra khỏi 
+Linked List cũng có 4 trường hợp:
+
+Linked List chỉ có 1 phần tử Loại node ở vị trí đầu
+Loại node ở vị trí cuối
+Loại node ở vị trí xác định
+
+
+Linked List chỉ có 1 phần tử
+Lúc này, ta chỉ cần gán head bằng NULL thì Linked List
+sẽ tự động rỗng.
+
+Loại node ở vị trí đầu
+Cơ chế loại bỏ node ở đầu được
+thể hiện qua mô hình sau:
+
+Ta thấy, ở đây có 2 sự thay đổi:
+
+prv của 
+node kế tiếp head trỏ về NULL head được cập nhật lại là
+node kế tiếp của head ban đầu 
+
+Loại bỏ node ở vị trí cuối
+Cơ chế loại bỏ node ở cuối được
+thể hiện qua mô hình sau:
+
+Ta thấy chỉ có 1 sự thay đổi duy nhất là nxt của
+node liền trước node cuối trỏ về NULL
+
+Loại bỏ node ở vị trí xác định
+Cơ chế loại bỏ node ở vị trí xác định được thể hiện qua mô hình sau:
+
+Ta thấy ở đây có 2 sự thay đổi. Giả sử ta loại bỏ 
+node ở vị trí k thì:
+
+nxt của 
+node k - 1 sẽ trỏ về node k + 1
+prv của 
+node k + 1 sẽ trỏ về node k - 1
+
+
+Code
+
+void deleteNode(int pos){
+    Node* temp = head;
+
+    if(sz == 1){ // Linked List chỉ có 1 node
+        head = NULL;
+        sz--;
+        return;
+    }
+
+    int count = 1;
+    // Node temp sau thao tác này chính là node ở vị trí thứ pos
+    while(count < pos){
+        temp = temp->nxt;
+        count++;
+    }
+
+    if(pos == 1){ // Xoá bỏ node đầu
+        temp->nxt->prv = NULL;
+        head = temp->nxt;
+        sz--;
+        return;
+    }
+
+    if(pos == sz){ // Xoá bỏ node cuối
+        temp->prv->nxt = NULL;
+        sz--;
+        return;
+    }
+
+    temp->prv->nxt = temp->nxt;
+    temp->nxt->prv = temp->prv;
+    sz--;
+}
+
+
+Code hoàn chỉnh
+
+struct Node{
+    int data;
+    Node *prv, *nxt;
+
+    Node(int _data){
+        data = _data;
+        prv = NULL;
+        nxt = NULL;
+    }
+};
+
+struct LinkedList{
+    Node *head;
+    int sz = 0;
+
+    void addNewNode(int pos, int data){
+        Node* newNode = new Node(data);
+        if(head == NULL){
+            head = newNode;
+            sz++;
+            return;
+        }
+
+        if(pos == 1){ // Chèn vào đầu
+            newNode->nxt = head;
+            head->prv = newNode;
+            head = newNode;
+            sz++;
+            return;
+        }
+
+        if(pos == sz + 1){ // Chèn vào sau phần tử cuối cùng
+            Node* temp = head;
+            // Node temp sau thao tác này là node cuối cùng
+            while(temp->nxt != NULL) temp = temp->nxt;
+            newNode->prv = temp;
+            temp->nxt = newNode;
+            sz++;
+            return;
+        }
+
+        int count = 1;
+        Node* temp = head;
+        // Node temp sau thao tác này chính là node ở vị trí thứ pos
+        while(count < pos){
+            temp = temp->nxt;
+            count++;
+        }
+
+        newNode->nxt = temp;
+        newNode->prv = temp->prv;
+        newNode->prv->nxt = newNode;
+        temp->prv = newNode;
+        sz++;
+    }
+
+    void deleteNode(int pos){
+        Node* temp = head;
+
+        if(sz == 1){
+            head = NULL;
+            sz--;
+            return;
+        }
+
+        int count = 1;
+        // Node temp sau thao tác này chính là node ở vị trí thứ pos
+        while(count < pos){
+            temp = temp->nxt;
+            count++;
+        }
+
+        if(pos == 1){ // Xoá bỏ node đầu
+            temp->nxt->prv = NULL;
+            head = temp->nxt;
+            sz--;
+            return;
+        }
+
+        if(pos == sz){ // Xoá bỏ node cuối
+            temp->prv->nxt = NULL;
+            sz--;
+            return;
+        }
+
+        temp->prv->nxt = temp->nxt;
+        temp->nxt->prv = temp->prv;
+        sz--;
+    }
+
+    void print(){
+        Node* temp = head;
+        while(temp != NULL){
+            cout << temp->data << " ";
+            temp = temp->nxt;
+        }
+    }
+} LinkedList;
+
+
+Lưu ý: Tất cả các hàm trên đều chỉ đúng khi vị trí pos có ý nghĩa, nghĩa là các vị trí thêm phải nằm trong đoạn [1, sz + 1], các vị trí xoá phải nằm trong đoạn [1, sz].
+
+
+
+Demo
+Để tiện lợi cho việc demo, mình sẽ tạo ra thêm một hàm print() bên trong struct để in ra toàn bộ giá trị các
+node của Linked List
+như sau:
+
+void print(){
+    Node* temp = head;
+    while(temp != NULL){
+        cout << temp->data << " ";
+        temp = temp->nxt;
+    }
+    cout << endl;
+}
+
+Ta có một đoạn code demo các phương thức như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+struct Node{
+    int data;
+    Node *prv, *nxt;
+
+    Node(int _data){
+        data = _data;
+        prv = NULL;
+        nxt = NULL;
+    }
+};
+
+struct LinkedList{
+    Node *head;
+    int sz = 0;
+
+    void addNewNode(int pos, int data){
+        Node* newNode = new Node(data);
+        if(head == NULL){
+            head = newNode;
+            sz++;
+            return;
+        }
+
+        if(pos == 1){ // Chèn vào đầu
+            newNode->nxt = head;
+            head->prv = newNode;
+            head = newNode;
+            sz++;
+            return;
+        }
+
+        if(pos == sz + 1){ // Chèn vào sau phần tử cuối cùng
+            Node* temp = head;
+            // Node temp sau thao tác này là node cuối cùng
+            while(temp->nxt != NULL) temp = temp->nxt;
+            newNode->prv = temp;
+            temp->nxt = newNode;
+            sz++;
+            return;
+        }
+
+        int count = 1;
+        Node* temp = head;
+        // Node temp sau thao tác này chính là node ở vị trí thứ pos
+        while(count < pos){
+            temp = temp->nxt;
+            count++;
+        }
+
+        newNode->nxt = temp;
+        newNode->prv = temp->prv;
+        newNode->prv->nxt = newNode;
+        temp->prv = newNode;
+        sz++;
+    }
+
+    void deleteNode(int pos){
+        Node* temp = head;
+
+        if(sz == 1){
+            head = NULL;
+            sz--;
+            return;
+        }
+
+        int count = 1;
+        // Node temp sau thao tác này chính là node ở vị trí thứ pos
+        while(count < pos){
+            temp = temp->nxt;
+            count++;
+        }
+
+        if(pos == 1){ // Xoá bỏ node đầu
+            temp->nxt->prv = NULL;
+            head = temp->nxt;
+            sz--;
+            return;
+        }
+
+        if(pos == sz){ // Xoá bỏ node cuối
+            temp->prv->nxt = NULL;
+            sz--;
+            return;
+        }
+
+        temp->prv->nxt = temp->nxt;
+        temp->nxt->prv = temp->prv;
+        sz--;
+    }
+
+    void print(){
+        Node* temp = head;
+        while(temp != NULL){
+            cout << temp->data << " ";
+            temp = temp->nxt;
+        }
+        cout << endl;
+    }
+} LinkedList;
+
+int main(){
+    LinkedList.addNewNode(1, 3); 
+    // [3]
+    LinkedList.addNewNode(2, 5);
+    // [3, 5]
+    LinkedList.addNewNode(2, 7);
+    // [3, 7, 5]
+    LinkedList.print();
+    LinkedList.deleteNode(2);
+    // [3, 5]
+    LinkedList.print();
+    LinkedList.deleteNode(2);
+    // [3]
+    LinkedList.print();
+    LinkedList.deleteNode(1);
+    // []
+    LinkedList.print();
+
+    return 0;
+}
+
+Khi chạy đoạn code trên ta có kết quả như sau:
+
+
+So sánh Linked List và mảng
+Mình sẽ có một bảng so sánh các tính chất của mảng và
+Linked List
+
+Tuỳ vào các tính chất, đặc điểm của từng cấu trúc dữ liệu mà các bạn có thể đưa ra lựa chọn phù hợp cho vấn đề của mình.
+
+Kết luận
+Qua bài này chúng ta đã nắm được về Linked List
+Bài sau chúng ta sẽ tìm hiểu về cấu trúc dữ liệu 
+Prefix Sum
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Linked List dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kinhkong69z 
+đã đánh giá
+23:45 25-12-2023
+
+
+
+
+
+
+
+
+
+                            tốt
+                        
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thrones@1
+đã đánh giá
+20:32 09-08-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kien_so_deep
+đã đánh giá
+17:36 24-06-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thrones@1
+đã bình luận
+20:34 09-08-2022
+
+
+dạ cho em hỏi là thêm LinkedList vào cuối struct tác dụng gì nhỉ.
+ 
+
+
+
+
+0
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+Xem tất cả 1 câu trả lời
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

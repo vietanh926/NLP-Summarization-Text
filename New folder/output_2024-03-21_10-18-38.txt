@@ -1,0 +1,1602 @@
+
+
+
+
+
+
+
+
+
+Trie | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Trie
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (1 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 15:58 15-05-2022
+
+
+5.399 lượt xem
+                    
+
+1 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Trie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trie
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+5.399
+
+
+1
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Trie
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Các bài toán liên quan đến xử lý xâu là một dạng bài khá phổ biến trong lập trình. Ngày hôm nay, chúng ta sẽ đi tìm hiểu về một cấu trúc dữ liệu dạng cây được dùng để xử lý xâu nhé.
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khoá học
+Đồ thị và cây
+BFS và DFS
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Trie 
+
+Bài toán đặt ra
+Ta có một bài toán như sau:
+Cho n xâu
+ chỉ gồm các chữ cái latin in thường
+. Tổng chiều của
+n xâu đã cho không vượt quá
+. Chiều dài một xâu được quy ước là số ký tự của xâu đó và kí hiệu là
+.
+Cho q truy vấn
+, mỗi truy vấn là một xâu s, tổng chiều dài các xâu truy vấn không vượt quá
+. Với mỗi xâu s được truy vấn, hãy đếm số lượng xâu trong n xâu đã cho nhận xâu s là xâu tiền tố.
+Một xâu s gọi là xâu tiền tố của xâu
+u nếu xâu con
+ của xâu
+u chính là xâu
+s. Ví dụ, xâu “ac” hay “acbd” là xâu tiền tố của xâu “acbd” nhưng xâu “acd” không là xâu tiền tố của xâu “acbd”.
+Ví dụ:
+
+
+
+
+Input
+
+
+Output
+
+
+
+
+5
+aded
+adec
+b
+adc
+ba
+4
+ad
+c
+ade
+ba
+
+
+3
+0
+2
+1
+
+
+
+
+Giải thích ví dụ:
+
+Xâu “ad” là xâu tiền tố của các xâu “aded”, “adec”, adc”
+Xâu “c” không là xâu tiền tố của xâu nào Xâu “ade” là xâu tiền tố của các xâu “aded”, “adec”
+Xâu “ba” là xâu tiền tố của xâu “ba” 
+
+Lời giải ban đầu
+Theo suy nghĩ cơ bản và đơn giản nhất, với mỗi xâu 
+s truy vấn, ta sẽ so sánh lần lượt xâu
+s với xâu con gồm
+|s| kí tự ở đầu của mỗi xâu đã cho. Nếu như hai xâu con là giống nhau ta
+ sẽ tăng kết quả lên 1 còn nếu không thì sẽ bỏ qua.
+Từ ý tưởng đó ta có thể triển khai như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n, q;
+string s[MaxN];
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n ; i++) cin >> s[i];
+    cin >> q;
+    while(q--){
+        string x;
+        int count = 0;
+        cin >> x;
+        for(int i = 0 ; i < n ; ++i){
+            string temp = s[i].substr(0, x.length());
+            if(temp == x) count++;
+        }
+        cout << count << endl;
+    }
+
+    return 0;
+}
+
+Tuy nhiên, độ phức tạp của chương trình trên là  trong đó
+ là tổng chiều dài các xâu truy vấn. Liệu có một phương pháp nào có thể cho thời gian tốt hơn không? Đó chính là lúc áp dụng cấu trúc dữ liệu mà ngày hôm
+ nay chúng ta sẽ tìm hiểu Trie.
+
+Tổng quát về Trie
+Trie là gì?
+Trie (xuất phát từ từ retrieval) là một cấu trúc dữ liệu dùng để quản lí một tập các xâu.
+Trie có thể thực hiện các thao tác:
+
+Thêm một xâu vào tập Xoá bỏ một xâu khỏi tập Thực hiện các truy vấn 
+
+Cấu trúc
+Trie là một cây trong đó:
+
+Node gốc không chứa thông tin Mỗi cạnh trên cây là một ký tự Đường đi từ node gốc đến một node trên cây thể hiện một xâu gồm các ký tự trên đường đi
+
+Ví dụ về Trie:
+
+Ta thấy, trong Trie trên thì node 1 là node gốc. Đường đi từ node 1 đến node 6 thể hiện xâu “ada” hay ta có thể nói node 6 thể hiện xâu “ada”. Tương tự, node 7 thể hiện xâu “ba”.
+
+Cách cài đặt
+Xây dựng node
+Một node cơ bản sẽ bao gồm mảng next[] là một mảng các con trỏ dùng để trỏ đến các node con của node hiện tại
+Tuỳ vào từng bài toán, ta sẽ có thêm các yếu tố để phù hợp với yêu cầu. Với bài toán trên của chúng ta, ta sẽ cần thêm biến
+count để đếm số lượng xâu mà có xâu tiền tố là xâu được biểu diễn bởi node hiện tại.
+
+class Node{
+    public:
+        int count;
+        Node *next[26];
+
+        Node(){
+            count = 0;
+            for(int i = 0 ; i < 26 ; ++i) next[i] = NULL;
+        }
+};
+
+
+Khởi tạo Trie
+Để khởi tạo Trie, ta sẽ cần khởi tạo một node gốc gọi là node
+root không chứa thông tin gì.
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n, q;
+string s[MaxN];
+
+class Node{
+    public:
+        int count;
+        Node *next[26];
+
+        Node(){
+            count = 0;
+            for(int i = 0 ; i < 26 ; ++i) next[i] = NULL;
+        }
+};
+
+class Trie{
+
+    Node *root;
+
+    public:
+
+        Trie(){
+            root = new Node();
+        }
+} trie;
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+
+    return 0;
+}
+
+
+Hàm Insert()
+Hàm Insert() là một hàm 
+void nhận vào tham số là xâu
+s cần thêm vào tập quản lý. 
+Quá trình thêm một xâu vào tập như sau:
+
+Dùng biến cur dạng con trỏ để thể hiện node hiện tại. Ban đầu, 
+Duyệt qua từng kí tự xâu s. Ta sẽ thay thế các ký tự ‘a’, ‘b’, ‘c’, …, ‘z’ thành 0, 1, 2, …, 25 để dễ quản lý
+Nếu như chưa tồn tại một cạnh ứng với kí tự hiện tại, ta sẽ tạo mới một node để tạo ra một cạnh ứng với ký tự. Các bạn chú ý: Chỉ số của một node sẽ đại diện cho ký tự của cạnh đi từ node
+cur đến bản thân nó. Ví dụ, từ node cur tồn tại
+next[3]  có nghĩa là đã có một cạnh đại diện cho ký tự ‘d’. Nếu node đó đã tồn
+ tại ta sẽ bỏ qua bước này Ta sẽ tăng biến đếm count của node con ứng với cạnh mang ký tự
+hiện tại Gán node cur bằng node ở trên để tiếp tục thêm các ký tự của xâu đó vào Trie
+Quá trình kết thúc khi tất cả các ký tự của xâu được thêm vào Trie
+
+Code:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n, q;
+
+class Node{
+    public:
+        int count;
+        Node *next[26];
+
+        Node(){
+            count = 0;
+            for(int i = 0 ; i < 26 ; ++i) next[i] = NULL;
+        }
+};
+
+class Trie{
+
+    Node *root;
+
+    public:
+
+        Trie(){
+            root = new Node();
+        }
+
+        void Insert(string s){
+            Node *cur = root;
+            int len = s.length();
+            for(int i = 0 ; i < len ; ++i){
+                int idx = s[i] - 'a';
+                if(cur->next[idx] == NULL) cur->next[idx] = new Node();
+                cur->next[idx]->count++;
+                cur = cur->next[idx];
+            }
+        }
+} trie;
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n ; ++i){
+        string s;
+        cin >> s;
+        trie.Insert(s);
+    }
+
+    return 0;
+}
+
+
+Hàm Query()
+Hàm Query() đối với từng bài toán sẽ có sự khác nhau phụ thuộc vào yêu cầu đề bài. Trong bài học này, mình sẽ xây dựng hàm
+Query() cho bài toán đã nêu ở trên.
+Hàm Query() là một hàm trả về giá trị nguyên, nhận vào tham số là xâu tiền tố cần truy vấn.
+Quá trình truy vấn sẽ diễn ra như sau:
+
+Dùng biến cur dạng con trỏ để thể hiện node hiện tại. Ban đầu, 
+Duyệt qua từng ký tự xâu s
+Nếu như không tồn tại cạnh ứng với ký tự hiện tại, tức là xâu này không là xâu tiền tố của bất cứ xâu nào trong tập đã cho thì trả kết quả là 0. Nếu như tồn tại thì ta tiếp tục đi xuống node ứng với cạnh đó
+Khi đã duyệt qua tất cả các ký tự của xâu s thì giá trị biến
+count của node hiện tại chính là kết quả. Tại sao lại vậy? Ta thấy, tất cả các xâu nếu đã nhận xâu
+s là xâu tiền tố thì khi thêm vào tập đều đi qua node hiện tại. Mà mỗi lần có một xâu đi qua node hiện tại ta đều thêm 1 vào biến
+count nên đây chính là số lượng xâu nhận xâu s là xâu tiền tố
+
+Khi này, bài toán ban đầu của chúng ta hoàn chỉnh sẽ như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n, q;
+
+class Node{
+    public:
+        int count;
+        Node *next[26];
+
+        Node(){
+            count = 0;
+            for(int i = 0 ; i < 26 ; ++i) next[i] = NULL;
+        }
+};
+
+class Trie{
+
+    Node *root;
+
+    public:
+
+        Trie(){
+            root = new Node();
+        }
+
+        void Insert(string s){
+            Node *cur = root;
+            int len = s.length();
+            for(int i = 0 ; i < len ; ++i){
+                int idx = s[i] - 'a';
+                if(cur->next[idx] == NULL) cur->next[idx] = new Node();
+                cur->next[idx]->count++;
+                cur = cur->next[idx];
+            }
+        }
+
+        int Query(string s){
+            Node *cur = root;
+            int len = s.length();
+            for(int i = 0 ; i < len ; ++i){
+                int idx = s[i] - 'a';
+                if(cur->next[idx] == NULL) return 0;
+                cur = cur->next[idx];
+            }
+            return cur->count;
+        }
+} trie;
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n ; ++i){
+        string s;
+        cin >> s;
+        trie.Insert(s);
+    }
+    cin >> q;
+    while(q--){
+        string s;
+        cin >> s;
+        cout << trie.Query(s) << endl;
+    }
+
+    return 0;
+}
+
+
+Độ phức tạp
+Ta thấy, với tất cả các thao tác với xâu trên Trie thì sẽ luôn duyệt qua tất cả các phần tử của xâu. Với bài toán trên của chúng ta, các thao tác trong quá trình duyệt chỉ tốn
+ nên độ phức tạp của hai hàm trên là
+ và độ phức tạp của cả chương trình là
+ (tổng số kí tự của tất cả các xâu).
+
+Kết luận
+
+Qua bài này chúng ta đã nắm được về Trie
+Bài sau chúng ta sẽ tìm hiểu về Priority Queue
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Trie dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kien_so_deep
+đã đánh giá
+20:48 29-06-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quangan0502
+đã bình luận
+10:03 03-12-2023
+
+
+Dạ cho em hỏi hàm xoá xâu thì làm sao đây aj
+
+
+
+
+0
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

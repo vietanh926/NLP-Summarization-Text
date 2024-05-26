@@ -1,0 +1,1540 @@
+
+
+
+
+
+
+
+
+
+Fenwick Tree | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Fenwick Tree
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 4.0 (1 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 16:11 08-07-2022
+
+
+3.737 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Fenwick Tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fenwick Tree
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+3.737
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Fenwick Tree
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Trong bài học ngày hôm nay, chúng ta sẽ tìm hiểu về một cấu trúc dữ liệu khá tương tự với Segment Tree đó là Fenwick Tree. Hãy cùng tìm hiểu xem Fenwick Tree là gì nhé!
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khóa học
+Hai con trỏ
+Đồ thị và cây
+Segment Tree
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Fenwick Tree So sánh Segment Tree và Fenwick Tree 
+
+Bài toán đặt ra
+Cho một dãy gồm  số nguyên
+. Có
+ truy vấn thuộc 1 trong 2 dạng sau:
+
+U x y: Tăng giá trị của
+ thêm một giá trị
+
+Q u v: In ra tổng các số trong đoạn
+
+
+Ví dụ:
+
+
+
+
+Input
+
+
+Output
+
+
+
+
+7
+3 5 2 6 9 1 2
+6
+Q 1 5
+U 2 1
+Q 1 5
+U 6 4
+U 7 -9
+Q 4 7 
+
+
+25
+26
+13
+
+
+
+
+Giải thích ví dụ:
+Ví dụ trên gồm có 6 truy vấn trong đó:
+
+Truy vấn 1 yêu cầu tổng các phần tử trong đoạn 
+ gồm các phần tử
+. Do đó, tổng các phần tử trong đoạn này là 25. Ta in ra 25.
+Truy vấn 2 tăng phần tử  thêm 1. Khi này, dãy đã cho trở thành
+.
+Truy vấn 3 yêu cầu in ra tổng các phần tử trong đoạn
+ gồm các phần tử
+. Do đó, tổng các phần tử trong đoạn này là 26. Ta in ra 26.
+Truy vấn 4 và 5 tăng giá trị của phần tử  thêm 4 và
+ thêm -9. Khi này, dãy đã cho trở thành
+.
+Truy vấn 6 yêu cầu in ra tổng các phần tử trong đoạn
+ gồm các phần tử
+. Do đó, tổng các phần tử trong đoạn này là 13.
+
+
+Lời giải ban đầu
+Ở bài học trước, mình đã giới thiệu cho các bạn về Segment Tree. Các bạn hãy thử tạm dừng tại đây và giải bài toán này bằng Segment Tree nhé. Đây coi như là một thử thách nhỏ cho các bạn.
+Các bạn tham khảo cách giải bằng Segment Tree của mình như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e5;
+
+int n, a[MaxN];
+
+class SegmentTree{
+
+    int low[4 * MaxN], high[4 * MaxN], TNode[4 * MaxN], leaf[MaxN], qi, qj;
+
+    int Find(int index){
+        if(qi > high[index] || qj < low[index]) return 0;
+        if(qi <= low[index] && high[index] <= qj) return TNode[index];
+        return Find(index * 2) + Find(index * 2 + 1);
+    }
+
+    public:
+        void Build(int index, int l, int r){
+            low[index] = l;
+            high[index] = r;
+            if(l == r){
+                TNode[index] = a[l];
+                leaf[l] = index;
+                return;
+            }
+            Build(index * 2, l, (l + r) / 2);
+            Build(index * 2 + 1, (l + r) / 2 + 1, r);
+            TNode[index] = TNode[index * 2] + TNode[index * 2 + 1];
+        } 
+
+        int Query(int l, int r){
+            qi = l;
+            qj = r;
+            return Find(1);
+        }
+
+        void Update(int index, int val){
+            int pos = leaf[index];
+            TNode[pos] += val;
+            for(pos /= 2; pos > 0 ; pos /= 2) TNode[pos] = TNode[pos * 2] + TNode[pos * 2 + 1];
+        }
+
+} seg;
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 1 ; i <= n ; ++i) cin >> a[i];
+    seg.Build(1, 1, n);
+    int q;
+    cin >> q;
+    while(q--){
+        char query;
+        int x, y;
+        cin >> query >> x >> y;
+        if(query == 'U') seg.Update(x, y);
+        else cout << seg.Query(x, y) << endl;
+    }
+
+    return 0;
+}
+
+
+Phương pháp mới
+Ta thấy để có thể cài đặt một Segment Tree như ở trên là tương đối tốn thời gian. Thế thì liệu có cách làm nào ngắn gọn hơn không?
+Ở bài hai con trỏ, các bạn đã biết ta có thể tính tổng một đoạn bằng kĩ thuật tổng tiền tố. Ta sẽ áp dụng ý tưởng đó ở đây nhưng do có truy vấn cập nhật nên ta sẽ nghĩ cách để tối ưu hoá quá trình cập nhật và truy vấn.
+Ta thấy, mọi số nguyên đều có thể biểu diễn được dưới dạng nhị phân, điều này cũng có nghĩa là mọi số nguyên đều có thể biểu diễn dưới dạng tổng các luỹ thừa của 2. Do đó, khi tính tổng các phần tử đoạn
+ ta có thể chia nhỏ thành tính tổng các đoạn có độ dài
+ rồi cộng lại.
+Cụ thể, ta phân tích n thành .
+ Muốn tính tổng các phần tử đoạn , ta sẽ tính tổng các phần tử trong các đoạn
+ rồi
+ cộng chúng lại.
+Ví dụ:
+Với , ta tính tổng các đoạn
+.
+Với , ta tính tổng các đoạn
+ và
+.
+Với , ta tính tổng các đoạn
+,  và
+.
+
+Cách cài đặt
+Đối với Fenwick Tree, để có thể minh hoạ bằng hình ảnh để các bạn có thể thật sự hiểu những gì sẽ xảy ra là khá phức tạp và thậm chí còn khó hiểu. Do đó, các bạn nên tập trung vào ứng dụng của Fenwick Tree nhiều hơn. Riêng về phần
+ code thì các bạn nên học thuộc do code Fenwick Tree tương đối ngắn và về cơ bản nó là giống nhau cho tất cả các bài.
+Bây giờ chúng ta sẽ bắt đầu đi vào phần code.
+Mặc dù là cây nhưng ta có thể biểu diễn Fenwick Tree bằng một mảng
+fen[MaxN] có kích thước bằng độ dài đoạn mà ta quản lí.
+
+Hàm Query()
+Query() là một hàm dùng để truy vấn nhận vào một tham số
+i thể hiện yêu cầu tính tổng các số trong đoạn  .
+Để tìm tổng các phần tử trong đoạn  ta sẽ lần lượt đi qua tất cả bit của i theo giá trị tăng dần. Mỗi lần đi qua i,
+ ta sẽ cộng fen[i] vào kết quả hiện tại, rồi trừ đi bit nhỏ nhất của i khỏi chính nó. Quá trình lặp lại cho đến khi .
+Để lấy bit nhỏ nhất của i thì ta dùng công thức
+i & (-i).
+Cụ thể code của chúng ta sẽ như sau:
+
+ll Query(int i) {
+    ll sum = 0;
+    for(; i > 0 ; i -= i & -i) sum += fen[i];
+    return sum;
+}
+
+
+Hàm Update()
+Update() là một hàm
+void dùng để cập nhật nhận vào hai tham số:
+
+i : vị trí phần tử cần cập nhật
+val : giá trị cần tăng
+
+Để cập nhật phần tử tại vị trí i, ta sẽ thực hiện quá trình ngược lại so với khi truy vấn tìm tổng: cộng bit nhỏ nhất vào i cho đến khi i vượt quá khoảng
+ cần truy vấn.
+Cụ thể code của chúng ta sẽ như sau:
+
+void Update(int i, int val){
+    for(; i <= MaxN ; i += i & -i) fen[i] += val;
+}
+
+
+Code
+Đầy đủ lời giải cho bài toán ban đầu của chúng ta như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+const int MaxN = 1 + 1e5;
+
+int n, q;
+
+ll fen[MaxN];
+
+ll Query(int i) {
+    ll sum = 0;
+    for(; i > 0 ; i -= i & -i) sum += fen[i];
+    return sum;
+}
+
+void Update(int i, int val){
+    for(; i <= MaxN ; i += i & -i) fen[i] += val;
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 1 ; i <= n ; ++i){
+        int x;
+        cin >> x;
+        Update(i,x);
+    }
+    cin >> q;
+    while(q--){
+        char query;
+        int x, y;
+        cin >> query >> x >> y;
+        if(query == 'U') Update(x,y);
+        else cout << Query(y) - Query(x - 1) << endl;
+    }
+
+    return 0;
+}
+
+
+Độ phức tạp
+Do các thao tác của chúng ta tiến hành trên các bit của một số nguyên nên độ phức tạp thuật toán sẽ là
+ .
+
+So sánh Segment Tree và Fenwick Tree
+
+
+
+
+
+
+
+Segment Tree
+
+
+Fenwick Tree
+
+
+
+
+Kích thước bộ nhớ
+
+
+Kích thước bộ nhớ lớn
+
+
+Kích thước bộ nhớ nhỏ
+
+
+
+
+Tốc độ
+
+
+Các thao tác truy vấn và cập nhật đều là
+, tuy nhiên mất thêm chi phí cho hàm
+Build() là
+ 
+
+
+Không mất thời gian cho hàm
+Build()
+
+
+
+
+Thời gian code
+
+
+Tốn thời gian
+
+
+Nhanh
+
+
+
+
+Tính đa dụng
+
+
+Tất cả các bài toán giải được bằng Fenwick Tree đều có thể giải được bằng Segment Tree
+
+
+Có một số bài toán bắt buộc phải sử dụng Segment Tree
+
+
+
+
+
+
+Kết luận
+
+Qua bài này chúng ta đã nắm được về Fenwick Tree Bài sau chúng ta sẽ tìm hiểu về Trie
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Fenwick Tree dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nguyễn Văn Đạt
+đã đánh giá
+20:08 01-09-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

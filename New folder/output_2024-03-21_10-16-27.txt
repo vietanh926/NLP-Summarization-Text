@@ -1,0 +1,1542 @@
+
+
+
+
+
+
+
+
+
+Tổng quan về tìm kiếm nhị phân | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tổng quan về tìm kiếm nhị phân
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (2 đánh giá)
+                    
+
+
+
+                        Tạo bởi huulam3011
+
+
+                        Cập nhật lần cuối 14:50 15-05-2022
+
+
+7.223 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Tổng quan về tìm kiếm nhị phân
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tổng quan về tìm kiếm nhị phân
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi huulam3011
+
+
+7.223
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Tổng quan về tìm kiếm nhị phân
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau đi tìm hiểu về một thuật toán được sử dụng rất nhiều trong lập trình lập trình: tìm kiếm nhị phân. Hãy cùng xem thuật toán này có gì thú vị nhé!
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Biến, kiểu dữ liệu, toán
+ tử trong C++ Câu điều kiện, vòng
+ lặp, hàm trong C++
+Mảng trong C++
+Các kiến thức cần thiết để theo dõi khóa học   
+Con trỏ trong C++
+Sắp xếp
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Tổng quan về tìm kiếm nhị phân Một số hàm tìm kiếm nhị phân trong C++ 
+
+Bài toán đặt ra
+Cho một dãy số gồm n số nguyên dương
+ai (n≤106,
+ ai≤109). Có
+q truy vấn
+(q ≤ 106), mỗi truy vấn gồm một số nguyên dương
+x, nếu
+x có trong dãy a thì in ra “YES”, còn không thì in ra “NO”.
+Ví dụ:
+
+
+Lời giải ban đầu
+Giải thích: Trong ví dụ trên có 5 truy vấn là 3, 4, 8, 9, 1 với kết quả lần lượt là YES, NO, YES, YES, NO với ý nghĩa như đã nêu ở đề bài.
+Với suy nghĩ thông thường, để có thể kiểm tra được 1 phần tử có trong dãy hay không, ta sẽ duyệt qua toàn bộ dãy. Nếu như gặp một phần tử giống với giá trị đang tìm kiếm, ta sẽ in ra “YES”, còn nếu tìm cả dãy mà không thấy, ta sẽ
+ in ra “NO”.
+Từ suy nghĩ trên, ta sẽ code như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int n, a[MaxN], q;
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n ; ++i) cin >> a[i];
+    cin >> q;
+    while(q--){
+        int x, check = 0;
+        cin >> x;
+        for(int i = 0 ; i < n ; ++i)
+        if(a[i] == x){
+            check = 1;
+            break;
+        }
+        if(check) cout << "YES" << endl;
+        else cout << "NO" << endl;
+    }
+
+    return 0;
+}
+
+Hãy cùng đánh giá độ phức tạp của thuật toán trên. Ta nhận thấy có một vòng lặp
+n lần nằm trong một vòng lặp
+q lần nên độ phức tạp của thuật toán là
+O(n × q). Vậy liệu có cách nào giảm độ phức tạp của thuật toán tìm kiếm xuống không?
+
+Ý tưởng
+Giả sử dãy số ở trong ví dụ của chúng ta được sắp xếp không giảm. Khi đó ta có a = [2, 2, 3, 5, 7, 8, 9]. Ta cần kiểm tra
+x = 3 liệu có thuộc dãy a hay không. Vậy thì ta sẽ làm như thế nào?
+Hãy xét vị trí i = 4 trong dãy a
+(ai = 7). Khi này, ta chia dãy làm hai phần: các số nhỏ hơn 7 (màu xanh) và các số lớn
+ hơn hoặc bằng 7 (màu vàng).
+
+Ta nhận thấy 3 nhỏ hơn 7, do đó số 3 không thể nằm trong phần màu vàng mà chỉ có thể nằm trong phần màu xanh. Do đó, khi tiếp tục tìm kiếm, ta chỉ tìm kiếm trên vùng màu xanh. Việc này giúp ta giảm bớt các bước tìm kiếm.
+
+Lời giải cải tiến
+Từ ý tưởng được đưa ra ở trên, ta có thể đưa ra một lời giải như sau:
+
+Chọn một phần tử trong đoạn cần xét So sánh phần tử cần tìm kiếm với phần tử được chọn:
+
+Nếu phần tử cần tìm kiếm nhỏ phần tử được chọn ta sẽ tiếp tục tìm kiếm trong đoạn nhỏ hơn
+Nếu phần tử cần tìm kiếm lớn phần tử được chọn ta sẽ tiếp tục tìm kiếm trong đoạn lớn hơn
+
+
+Đây chính là cơ sở của thuật toán tìm kiếm nhị phân. Để tìm hiểu chi tiết hơn, ta sẽ cùng đến với phần tiếp theo của bài học ngày hôm nay.
+
+Tổng quan về tìm kiếm nhị phân
+Khái niệm và ý tưởng
+Tìm kiếm nhị phân là một thuật toán tìm kiếm giá trị xác định trên dãy đã sắp xếp.
+
+Thuật toán hoạt động bằng cách chọn phần tử trung vị (phần tử ở vị trí chính giữa). Nếu phần tử cần tìm khác phần tử trung vị ta sẽ tiếp tục xét. Nếu phần tử cần tìm kiếm nhỏ hơn phần tử trung vị, ta sẽ tiếp tục tìm kiếm trên nửa
+ nhỏ hơn, ngược lại ta sẽ tìm kiếm trên nửa lớn hơn. Kết thúc quá trình tìm kiếm mà không có phần tử nào bằng phần tử cần tìm, ta sẽ kết luận phần tử cần tìm không có trong dãy.
+
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int n, a[MaxN], q;
+
+bool binary_search(int a[], int sz, int target){
+    int low = 0, high = sz - 1;
+    while(low <= high){
+        int tg = (low + high) / 2;
+        if(a[tg] == target) return 1;
+        if(target < a[tg]) high = tg - 1;
+        else low = tg + 1;
+    }
+    return 0;
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n ; ++i) cin >> a[i];
+    sort(a, a + n);
+    cin >> q;
+    while(q--){
+        int x;
+        cin >> x;
+        if(binary_search(a, n, x)) cout << "YES" << endl;
+        else cout << "NO" << endl;
+    }
+
+    return 0;
+}
+
+Mình sẽ có một số lưu ý cho các bạn về đoạn code trên như sau:
+
+Do tìm kiếm nhị phân chỉ hoạt động trên dãy đã sắp xếp nên các bạn sẽ cần dùng hàm
+sort để sắp xếp dãy trước khi dùng tìm kiếm nhị phân.
+Do khoảng tìm kiếm luôn là một đoạn liên tục các giá trị nguyên, ta không cần lưu tất cả phần tử của đoạn khi tìm kiếm mà chỉ cần duy trì hai biến
+low và high tượng trưng cho phần tử đầu và cuối của đoạn.
+Ta có thể tối ưu thuật toán hơn bằng việc dừng sớm nếu trong quá trình so sánh gặp một phần tử trung vị thỏa yêu cầu đề bài chứ không cần đợi đến khi đoạn tìm kiếm chỉ còn một phần tử.
+
+Vậy cụ thể đoạn code trên sẽ chạy như thế nào?
+Hãy giả sử ta đang cần tìm kiếm phần tử x = 3 trong dãy ở ví dụ. Khi đó, quá trình tìm kiếm sẽ như sau:
+
+
+Độ phức tạp của thuật toán
+Ta thấy, ở mỗi bước, khoảng tìm kiếm sẽ bị giảm đi một nửa nên chi phí cho việc tìm kiếm một phần tử sẽ là
+O(logn). Do đó, độ phức tạp của toàn bộ chương trình trên sẽ là
+O(n×logn).
+
+Một số hàm tìm kiếm nhị phân trong C++
+Trong C++ có một số hàm áp dụng tư tưởng của tìm kiếm nhị phân như
+binary_search,
+lower_bound, 
+upper_bound.
+
+Khai báo
+Thông thường để thêm các hàm trên 
+vào chương trình, chúng ta sẽ thêm thư viện như sau:
+#include<algorithm>
+Tuy nhiên, ở trong suốt khóa học này mình sẽ sử dụng header sau:
+#include<bits/stdc++.h>
+Header này sẽ giúp chúng ta thêm tất cả các thư viện về thuật toán mà chúng ta sẽ sử dụng trong
+khóa học này.
+
+Sử dụng
+Hàm binary_search
+Hàm binary_search
+sẽ được sử dụng như sau:
+
+binary_search({first}, {last}, {element});
+
+Trong đó:
+
+first, 
+last lần lượt là 2 con trỏ trỏ đến vị trí xuất phát và kết thúc của dãy cần tìm kiếm. Khoảng được tìm kiếm là [first,
+last), tức là tất cả các phần tử giữa first và last và thêm phần tử được trỏ bởi
+first nhưng không có phần tử trỏ bởi last element: phần tử cần tìm kiếm
+Hàm sẽ trả về giá trị bool,
+true nếu tồn tại phần tử
+element trong đoạn cần xét, false 
+nếu phần tử element không nằm trong đoạn cần xét
+
+Hàm binary_search
+sẽ được áp dụng vào bài toán ban đầu của ta như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int n, a[MaxN], q;
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n;
+    for(int i = 0 ; i < n ; ++i) cin >> a[i];
+    sort(a, a + n);
+    cin >> q;
+    while(q--){
+        int x;
+        cin >> x;
+        if(binary_search(a, a + n, x)) cout << "YES" << endl;
+        else cout << "NO" << endl;
+    }
+
+    return 0;
+}
+
+
+Hàm lower_bound
+Hàm lower_bound 
+sẽ được sử dụng như sau:
+
+lower_bound({first}, {last}, {element});
+
+Trong đó:
+
+first, 
+last lần lượt là 2 con trỏ trỏ đến vị trí xuất phát và kết thúc của dãy cần tìm kiếm. Khoảng được tìm kiếm là [first,
+last), tức là tất cả các phần tử giữa first và last và thêm phần tử được trỏ bởi
+first nhưng không có phần tử trỏ bởi last element: phần tử cần tìm kiếm
+Hàm sẽ trả về con trỏ trỏ đến phần tử đầu tiên trong đoạn đang xét không nhỏ hơn phần tử
+element 
+Mình có đoạn code minh hoạ cách dùng lower_bound
+như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int main(){
+    int a[] = {4, 2, 4, 9, 6, 1, 10};
+    sort(a, a + 7);
+    // Khi này dãy a là: 1 2 4 4 6 9 10
+    auto pos = lower_bound(a, a + 7, 4);
+    cout << "Vi tri dau tien khong nho hon 4 la " << pos - a << endl;
+    // Kết quả là 2 (do a[2] == 4)
+
+    return 0;
+}
+
+
+Hàm upper_bound
+Cách sử dụng hàm upper_bound
+hoàn toàn tương tự hàm lower_bound, chỉ khác là
+upper_bound sẽ tìm phần tử đầu tiên lớn hơn phần tử
+element.
+Mình có đoạn code minh hoạ cách dùng upper_bound
+như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int main(){
+    int a[] = {4, 2, 4, 9, 6, 1, 10};
+    sort(a, a + 7);
+    // Khi này dãy a là: 1 2 4 4 6 9 10
+    auto pos = upper_bound(a, a + 7, 4);
+    cout << "Vi tri dau tien lon hon 4 la " << pos - a << endl;
+    // Kết quả là 4 (do a[4] == 6)
+
+    return 0;
+}
+
+
+Độ phức tạp
+Tất cả các hàm mình vừa nêu ở trên đều mất độ phức tạp
+O(logn).
+
+Vấn đề bài sau
+Từ những kiến thức về tìm kiếm nhị phân, các bạn hãy thử suy nghĩ bài toán sau:
+Có một phân xưởng gồm n máy
+(n ≤ 105), máy thứ i cần chính xác
+ai ngày
+(0 < ai ≤ 109) để
+ hoàn thành 1 sản phẩm như nhau. Hãy tính thời gian ít nhất để có thể hoàn thành tối thiểu
+k sản phẩm
+
+(0< k≤ 109).
+Ví dụ
+
+Để biết cách làm là gì thì hãy cùng chờ đến bài học tiếp theo nhé!
+
+Giải thích: Trong vòng 10 ngày, máy 1 làm được 3 sản phẩm, máy 2 làm được 5 sản phẩm, máy 3 làm được 1 sản phẩm, tổng cộng là 9 sản phẩm như yêu cầu đề bài.
+
+
+Kết luận
+Qua bài này chúng ta đã nắm được các kiến thức ban đầu về
+Tìm kiếm nhị phân
+Bài sau chúng ta sẽ tiếp tục tìm hiểu về 
+Ứng dụng của tìm kiếm nhị phân
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Tổng quan về tìm kiếm nhị phân dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dangkien
+đã đánh giá
+22:32 14-01-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phungduongd
+đã đánh giá
+18:51 26-03-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

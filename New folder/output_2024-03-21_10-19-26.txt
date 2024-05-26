@@ -1,0 +1,1525 @@
+
+
+
+
+
+
+
+
+
+Tìm kiếm đường đi ngắn nhất trên đồ thị (Dijikstra) | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tìm kiếm đường đi ngắn nhất trên đồ thị (Dijikstra)
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 0.0 (0 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 17:14 07-07-2022
+
+
+16.212 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Tìm kiếm đường đi ngắn nhất trên đồ thị (Dijikstra)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tìm kiếm đường đi ngắn nhất trên đồ thị (Dijikstra)
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+16.212
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Tìm kiếm đường đi ngắn nhất trên đồ thị (Dijikstra)
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Trong bài học trước, chúng ta đã cùng nhau đi tìm hiểu về thuật toán Floyd-Warshall trong tìm kiếm đường đi ngắn nhất trên đồ thị. Hôm nay, chúng ta sẽ cùng nhau đi tìm hiểu về một thuật toán có thể coi là thuật toán phổ biến nhất
+ trong tìm kiếm đường đi ngắn nhất. Để biết cụ thể, hãy cùng nhau bắt đầu bài học nào!
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi
+khóa học Đồ thị và cây
+BFS và DFS
+Priority Queue
+Thuật toán Floyd-Warshall
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Thuật toán Dijkstra  
+
+Thuật toán Dijkstra 
+Bài toán đặt ra
+Ta có một bài toán như sau:
+Cho một đồ thị có hướng gồm  đỉnh (đánh số từ 1 đến
+),   cạnh có hướng và có trọng số là số nguyên không âm. Cho một đỉnh
+, hãy tìm độ dài đường đi ngắn nhất từ đỉnh
+ đến tất cả các đỉnh còn lại. Nếu như không tồn tại đường đi giữa hai đỉnh, in ra -1.
+Input:
+
+Dòng : Gồm 3 số nguyên
+ lần lượt thể hiện cho số đỉnh của đồ thị, số cạnh của đồ thị và đỉnh yêu cầu
+
+Dòng : Mỗi dòng gồm 3 số nguyên
+ thể hiện một cạnh có hướng nối từ đỉnh
+ đến đỉnh
+ và có trọng số
+
+
+Output:
+
+Gồm  dòng, dòng thứ
+thể hiện độ dài đường đi ngắn nhất từ đỉnh
+ đến đỉnh 
+
+Ví dụ:
+
+
+
+Input
+Output
+
+
+
+7 8 1
+1 2 4
+1 3 5
+1 4 2
+4 2 1
+4 6 4
+3 5 3
+6 5 1
+1 5 8  
+
+
+0
+3
+5
+2
+7
+6
+-1
+
+
+
+
+
+
+Giải thích ví dụ:
+Đây là đồ thị minh hoạ cho ví dụ trên
+
+
+Ý tưởng
+Ý tưởng của Dijkstra về cơ bản khá giống với thuật toán Floyd. Với một cạnh nối liền hai đỉnh
+ và
+, ta sẽ so sánh độ dài đường đi trước đây
+ với đường
+.
+Tại mỗi bước, ta sẽ chọn ra một đỉnh  mà ta biết chắc chắn đường đi từ
+ là đường đi ngắn nhất. Sau đó, ta sẽ xét tất cả các đỉnh
+ mà có cạnh liên kết trực tiếp
+ rồi tối ưu đường đi
+ dựa trên đường đi
+.
+
+Cách cài đặt
+Trước hết, để thể hiện một cạnh, ta sẽ sử dụng các 
+vector với kiểu dữ liệu
+pair<int, int>. pair là một cấu trúc cho phép ta lưu trữ hai phần tử. Ta có thể truy cập vào 2 phần tử của
+pair thông qua hai phương thức
+first và second.
+Ví dụ: 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    pair<int, int> myPair[2];
+    // Có 2 cách khởi tạo pair
+    myPair[0] = make_pair(1, 2);
+    myPair[1] = {2, 3};
+
+    cout << myPair[0].first << " " << myPair[0].second << endl;
+    // Kết quả: 1 2
+
+    return 0;
+}
+
+Ta sẽ cần khởi tạo hai mảng với ý nghĩa như sau:
+
+dist[u]:  độ dài đường đi ngắn nhất từ đỉnh nguồn
+s đến đỉnh u. Ban đầu dist[u] = ∞ với mọi
+u, riêng dist[s] = 0 mark[u]: đánh dấu đỉnh
+u đã được xét hay chưa. Ban đầu các phần tử trong mảng có giá trị
+false 
+
+Lưu ý: Trong máy tính không tồn tại khái niệm ∞ (vô cùng). Do đó, mỗi khi viết ∞, ta sẽ hiểu đây là một giá trị đủ lớn để lớn hơn giá trị lớn nhất có thể của mảng đó.
+
+
+==> Trong ví dụ trên, ta thấy có tối đa  cạnh, mỗi cạnh có trọng số không quá
+ nên độ dài một đường đi không quá
+. Giá trị
+ khi này có thể là bất cứ giá trị nào lớn hơn hoặc bằng
+.
+Thuật toán sẽ diễn ra như sau:
+
+Chọn một đỉnh u sao cho 
+mark[u] = false và dist[u] nhỏ nhất
+Với đỉnh u mà ta đã chọn ở trên, ta sẽ xét các đỉnh
+v có cạnh nối trực tiếp từ u. Nếu
+dist[u] + (độ dài cạnh u-v) < dist[v], hãy có nghĩa là độ dài đường đi từ đỉnh
+s đến đỉnh v thông qua đỉnh 
+u ngắn hơn đường đi hiện tại từ đỉnh s đến đỉnh
+v thì ta sẽ cập nhật lại dist[v] = dist[u] + (độ dài cạnh u-v)
+Khi xét xong tất cả các đỉnh có cạnh nối trực tiếp từ
+u, đánh dấu mark[u] = true tức là đỉnh
+u đã xử lý xong.
+
+
+Minh hoạ
+Mình sẽ minh họa thuật toán bằng một đồ thị cơ bản sau với đỉnh nguồn là đỉnh 1:
+
+
+Đầu tiên, dist = [0, ∞, ∞, ∞] và
+mark = [0, 0, 0, 0] (ta coi 0 là false và 1 là true).
+Ta chọn u = 1 do 
+dist[1] = 0 nhỏ nhất và thoả mãn mark[1] = 0. Xét các đỉnh
+v có cạnh nối trực tiếp từ đỉnh 1.
+
+Xét v = 2, ta thấy 
+dist[1] + độ dài cạnh (1, 2) = 3 < dist[2] = ∞ nên dist[2] = 3
+Xét v = 3, ta thấy 
+dist[1] + độ dài cạnh (1, 3) = 6 < dist[3] = ∞ nên dist[3] = 6
+
+
+
+
+
+Do không còn đỉnh nối từ đỉnh 1 nên ta kết thúc xét đỉnh 1 và đánh dấu
+mark[1] = 1 
+Khi này, dist = [0, 3, 6, ∞] và
+mark = [1, 0, 0, 0] Ta chọn u = 2 do 
+dist[2] = 3 nhỏ nhất và thoả mãn mark[2] = 0. Xét các đỉnh
+v có cạnh nối trực tiếp từ đỉnh 2.
+
+Xét v = 3, ta thấy 
+dist[2] + độ dài cạnh (2, 3) = 4 < dist[3] = 6 nên dist[3] = 4
+Xét v = 4, ta thấy 
+dist[2] + độ dài cạnh (2, 4) = 10 < dist[4] = ∞ nên dist[4] = 10
+Do không còn đỉnh nối từ đỉnh 2 nên ta kết thúc xét đỉnh 2 và đánh dấu
+mark[2] = 1 
+Khi này, dist = [0, 3, 4, 10] và
+mark = [1, 1, 0, 0] Ta chọn u = 3 do 
+dist[3] = 4 nhỏ nhất và thoả mãn mark[3] = 0. Xét các đỉnh
+v có cạnh nối trực tiếp từ đỉnh 3.
+
+Xét v = 4, ta thấy 
+dist[3] + độ dài cạnh (3, 4) = 8 < dist[4] = 10 nên dist[4] = 8
+Do không còn đỉnh nối từ đỉnh 3 nên ta kết thúc xét đỉnh 3 và đánh dấu
+mark[3] = 1 
+Khi này, dist = [0, 3, 4, 8] và
+mark = [1, 1, 1, 0] Ta chọn u = 4 do 
+dist[4] = 0 nhỏ nhất và thoả mãn mark[4] = 0. Xét các đỉnh
+v có cạnh nối trực tiếp từ đỉnh 4.
+
+Do không còn đỉnh nối từ đỉnh 4 nên ta kết thúc xét đỉnh 4 và đánh dấu
+mark[4] = 1 
+Do tất cả các đỉnh đã được đánh dấu nên thuật toán kết thúc và ta thu được
+dist = [0, 3, 4, 8] 
+
+Code cơ bản
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+const int MaxN = 1 + 1e2;
+const ll INF = 1e18;
+
+int n, m, s;
+bool mark[MaxN];
+ll dist[MaxN];
+vector<pair<int, int>> adj[MaxN];
+
+void Dijkstra(int s){
+    fill(dist + 1, dist + n + 1, INF);
+    dist[s] = 0;
+
+    for(int i = 1 ; i <= n ; ++i){
+        int v = -1;
+        for(int j = 1 ; j <= n ; ++j){
+            if(!mark[j] && (v == -1 || dist[j] < dist[v])) v = j;
+        }
+        if(v == -1) break;
+        mark[v] = 1;
+        for(auto u : adj[v]){
+            if(mark[u.first]) continue;
+            dist[u.first] = min(dist[u.first], dist[v] + u.second);
+        }
+    }
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n >> m >> s;
+    for(int i = 0 ; i < m ; ++i){
+        int u, v, w;
+        cin >> u >> v >> w;
+        adj[u].push_back({v, w});
+    }
+    Dijkstra(s);
+    for(int i = 1 ; i <= n ; ++i){
+        if(dist[i] == INF) cout << -1 << endl;
+        else cout << dist[i] << endl;
+    }
+
+    return 0;
+}
+
+
+Độ phức tạp
+Ta thấy trong đoạn code trên, ta có một vòng lặp ngoài cùng có độ phức tạp
+. Trong vòng lặp đó lại tồn tại 2 vòng lặp con. Vòng lặp thứ nhất để tìm ra đỉnh có
+dist[u] nhỏ nhất sẽ mất độ phức tạp  . Tuy nhiên, vòng lặp thứ hai để tìm các đỉnh có cạnh kề với đỉnh
+u sẽ chỉ mất  trong
+cả bài toán. Lí do là vì mỗi cạnh sẽ chỉ được duyệt qua duy nhất 1 lần.
+
+Do đó, độ phức tạp tổng thể của chương trình là .
+
+Code cải tiến
+Ý tưởng
+Ta thấy với độ phức tạp trên thì bài toán vẫn chưa được giải quyết trọn vẹn và lời giải sẽ cần được tối ưu thêm. Bây giờ hãy cùng xem xét các yếu tố có thể tối ưu được của bài toán.
+Vòng lặp dùng để duyệt và xét tất cả các cạnh sẽ luôn phải xảy ra. Do đó, vòng lặp này không thể tối ưu thêm nữa.
+Ta sẽ xét đến vòng lặp dùng để tìm ra đỉnh u có
+dist[u] nhỏ nhất. Ta thấy ngay việc dùng vòng lặp để tìm ra phần tử nhỏ nhất trong một tập hợp là một điều khá “ngu ngốc”. Ở những bài học trước, mình đã giới thiệu cho các bạn về một cấu trúc dữ liệu có thể tìm ra phần tử nhỏ nhất
+ nhanh chóng. Các bạn có còn nhớ nó không? Nó chính là priority_queue
+đó.
+Ta sẽ dùng priority_queue
+lưu trữ các pair<long long,int>, trong đó giá trị
+first là độ dài đường đi ngắn nhất từ đỉnh s đến đỉnh
+u, giá trị second là đỉnh u. Khi
+priority_queue so sánh các
+pair<> nói chung thì nó sẽ so sánh giá trị
+first trước rồi mới đến giá trị second. Do đó ta để độ dài đường đi ở giá trị
+first vì khi đó đỉnh có dist[] nhỏ nhất sẽ được lấy ra trước.
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+const int MaxN = 1 + 1e2;
+const ll INF = 1e18;
+
+int n, m, s;
+bool mark[MaxN];
+ll dist[MaxN];
+vector<pair<int, int>> adj[MaxN];
+
+void Dijkstra(int s){
+    fill(dist + 1, dist + n + 1, INF);
+    dist[s] = 0;
+    priority_queue<pair<ll, int>, vector<pair<ll, int>>, greater<pair<ll,int>>> pq;
+    pq.push({0, s});
+    while(!pq.empty()){
+        int u = pq.top().second;
+        pq.pop();
+        if(mark[u]) continue;
+        mark[u] = true;
+        for(auto e : adj[u]){
+            int v = e.first;
+            ll w = e.second;
+            if(dist[v] > dist[u] + w){
+                dist[v] = dist[u] + w;
+                pq.push({dist[v], v});
+            }
+        }
+    }
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n >> m >> s;
+    for(int i = 0 ; i < m ; ++i){
+        int u, v, w;
+        cin >> u >> v >> w;
+        adj[u].push_back({v, w});
+    }
+    Dijkstra(s);
+    for(int i = 1 ; i <= n ; ++i){
+        if(dist[i] == INF) cout << -1 << endl;
+        else cout << dist[i] << endl;
+    }
+
+    return 0;
+}
+
+Độ phức tạp
+Khi này, độ phức tạp của thuật toán sẽ giảm còn .
+
+Vấn đề kì sau
+Để có thể chuẩn bị tốt hơn cho bài học kế tiếp, mình muốn đặt ra cho các bạn một câu hỏi:
+
+Ở đề bài mình nêu ở trên, các cạnh đều có trọng số không âm. Điều gì có thể sẽ xảy ra với thuật toán Dijkstra nếu các cạnh có trọng số âm?
+
+Kết luận
+Qua bài này chúng ta đã nắm về Tìm kiếm đường đi ngắn nhất trên đồ thị
+với thuật toán Dijkstra. 
+Bài sau chúng ta sẽ tìm hiểu về Tìm kiếm đường đi ngắn nhất trên đồ thị
+với thuật toán Bellman-Ford.
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Tìm kiếm đường đi ngắn nhất trên đồ thị (Dijikstra) dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

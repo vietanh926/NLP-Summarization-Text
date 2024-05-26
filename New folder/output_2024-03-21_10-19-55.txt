@@ -1,0 +1,1435 @@
+
+
+
+
+
+
+
+
+
+Tìm kiếm cây khung nhỏ nhất (Prim) | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tìm kiếm cây khung nhỏ nhất (Prim)
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 0.0 (0 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 20:57 07-07-2022
+
+
+4.313 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Tìm kiếm cây khung nhỏ nhất (Prim)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tìm kiếm cây khung nhỏ nhất (Prim)
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+4.313
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Tìm kiếm cây khung nhỏ nhất (Prim)
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Trong những bài học trước, chúng ta đã cùng nhau tìm hiểu rất nhiều các thuật toán liên quan đến đồ thị. Trong bài học này, mình sẽ tiếp tục giới thiệu đến các bạn một thuật toán thú vị về đồ thị.
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khóa học
+Đồ thị và cây
+BFS và DFS
+Priority Queue
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Thuật toán Prim 
+
+Bài toán đặt ra
+Ta có một bài toán như sau:
+Một quốc gia có  thành phố được đánh số từ 1 đến
+. Hiện tại, chính phủ đang muốn xây dựng các tuyến đường sao cho từ một thành phố có thể di chuyển đến tất cả các thành phố khác. Qua quá trình khảo sát, chính phủ nhận
+ thấy có  tuyến đường giữa hai thành phố
+ và
+ có thể xây dựng với chi phí là
+. Nhiệm vụ của bạn là tính toán chi phí nhỏ nhất để xây dựng các tuyến đường với yêu cầu như trên.
+Input:
+
+Dòng 1: 2 số nguyên dương  lần lượt thể hiện số thành phố và số tuyến đường có thể xây dựng
+
+Dòng 2…m+1: Mỗi dòng gồm ba số nguyên dương
+ trong đó
+ thể hiện cho 2 thành phố có thể xây đường kết nối,
+ thể hiện cho chi phí xây tuyến đường đó
+
+
+Output:
+
+Một số nguyên duy nhất là chi phí để xây dựng các tuyến đường sao cho từ một thành phố có thể di chuyển đến tất cả các thành phố khác
+
+Ví dụ:
+
+
+
+Input
+Output
+
+
+
+5 7
+1 2 3
+2 4 7
+3 5 6
+4 5 4
+2 5 3
+1 3 2
+2 3 4
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+Giải thích ví dụ
+Đây là hình ảnh minh hoạ cho ví dụ ở trên với các con đường có thể xây dựng
+
+Đây là các con đường được lựa chọn (màu cam)
+
+
+Một số khái niệm
+ Để có thể giải quyết bài toán trên, ta sẽ phải làm quen với một số khái niệm mới như sau:
+
+Cây khung là một tập các cạnh sao cho tập cạnh này không tồn tại chu trình và liên thông
+Cây khung nhỏ nhất là cây khung mà tổng trọng số các cạnh thuộc cây khung là nhỏ nhất
+
+Ví dụ:
+
+Ta có thể nhận thấy ngay với ví dụ ở trên, nếu coi mỗi thành phố là một đỉnh, mỗi con đường có thể xây dựng là một cạnh thì tập các con đường cần xây dựng sẽ tạo thành một cây khung nhỏ nhất. Vậy thì làm sao để có thể tìm ra một
+ cây khung nhỏ nhất?
+
+Thuật toán Prim
+Ý tưởng
+Ý tưởng xây dựng thuật toán Prim khá giống với ý tưởng của thuật toán Dijkstra: Tại mỗi bước, ta sẽ thêm một đỉnh vào cây khung thoả mãn đỉnh đó chưa được chọn vào cây khung và khoảng cách từ nó đến một đỉnh đã được chọn là nhỏ
+ nhất.
+
+Cách cài đặt
+Để có thể cài đặt thuật toán Prim, ta sẽ cần 2 mảng
+
+dist[] với ý nghĩa
+dist[u] là khoảng cách nhỏ nhất từ một đỉnh đã được chọn vào cây khung đến đỉnh
+u. mark[] với ý nghĩa
+mark[u] = true nghĩa là đỉnh u đã được chọn vào cây khung
+
+Thuật toán diễn ra như sau:
+
+Khởi tạo mảng dist[]. Ban đầu, tất cả các phần tử trong mảng có giá trị
++∞ Ta sẽ chọn một đỉnh u làm đỉnh gốc của cây khung. Khi này,
+dist[u] = 0 Tại mỗi lần chọn đỉnh thêm vào cây khung, ta sẽ luôn ưu tiên lấy các đỉnh
+u mà dist[u] nhỏ nhất. Ta đánh dấu
+mark[u] = true. Từ đỉnh u được chọn ở trên, ta sẽ cập nhật lại
+dist[v] với các đỉnh v có cạnh nối từ
+u Tương tự với thuật toán Dijkstra, để lấy ra đỉnh 
+u có dist[u] nhỏ nhất, ta sẽ sử dụng 
+priority_queue lưu trữ
+pair<long long, int> trong đó giá trị
+first là 
+dist[u], giá trị second 
+là u. Quá trình chọn đỉnh trên sẽ kết thúc khi ta chọn đủ
+n đỉnh vào cây khung 
+Để dễ hình dung, ta sẽ đi qua một ví dụ sau.
+Ta có đồ thị như sau:
+
+
+Ban đầu, dist = [+∞, +∞, +∞, +∞] và
+mark = [0, 0, 0, 0] (0 là false, 1 là true), tổng trọng số
+res = 0 Ta chọn đỉnh gốc là đỉnh 1 (đỉnh này có thể là đỉnh bất kì). Gán
+dist[1] = 0 Khi này, dist = [0, +∞, +∞, +∞] và
+mark = [0, 0, 0, 0] Ta chọn đỉnh u = 1 do 
+dist[1] nhỏ nhất và mark[1] = 0. Tăng giá trị biến
+res lên một lượng dist[1] và đánh dấu
+mark[1] = 1. Xét các đỉnh v có cạnh nối từ
+u:
+
+Với v = 2, ta thấy 
+độ dài cạnh (1,2) < dist[2] nên ta cập nhật dist[2] = độ dài cạnh (1,2) = 2
+Với v = 3, ta thấy 
+độ dài cạnh (1,3) < dist[3] nên ta cập nhật dist[3] = độ dài cạnh (1,3) = 6
+Với v = 4, ta thấy 
+độ dài cạnh (1,4) < dist[4] nên ta cập nhật dist[4] = độ dài cạnh (1,4) = 1
+
+Khi này, dist = [0, 2, 6, 1],
+mark = [1, 0, 0, 0], res = 0
+Ta chọn đỉnh u = 4 do 
+dist[4] nhỏ nhất và mark[4] = 0. Tăng giá trị biến
+res lên một lượng dist[4] và đánh dấu
+mark[4] = 1. Xét các đỉnh v có cạnh nối từ
+u:
+
+Với v = 2, ta thấy 
+độ dài cạnh (4,2) > dist[2] nên ta không cập nhật dist[2]
+Với v = 3, ta thấy 
+độ dài cạnh (4,3) < dist[3] nên ta cập nhật dist[3] = độ dài cạnh (4,3) = 3
+Với v = 1, ta thấy 
+độ dài cạnh (4,1) > dist[1] nên ta không cập nhật dist[1]
+
+Khi này, dist = [0, 2, 3, 1] và
+mark = [1, 0, 0, 1], res = 1
+Ta chọn đỉnh u = 2 do 
+dist[2] nhỏ nhất và mark[2] = 0. Tăng giá trị biến
+res lên một lượng dist[2] và đánh dấu
+mark[2] = 1. Xét các đỉnh v có cạnh nối từ
+u:
+
+Với v = 4, ta thấy 
+độ dài cạnh (2,4) > dist[4] nên ta không cập nhật dist[4]
+Với v = 1, ta thấy 
+độ dài cạnh (2,1) > dist[1] nên ta không cập nhật dist[1]
+
+Khi này, dist = [0, 2, 3, 1] và
+mark = [1, 1, 0, 1], res = 3
+Ta chọn đỉnh u = 3 do 
+dist[3] nhỏ nhất và mark[3] = 0. Tăng giá trị biến
+res lên một lượng dist[3] và đánh dấu
+mark[3] = 1. Xét các đỉnh v có cạnh nối từ
+u:
+
+Với v = 4, ta thấy 
+độ dài cạnh (3,4) > dist[4] nên ta không cập nhật dist[4]
+Với v = 1, ta thấy 
+độ dài cạnh (3,1) > dist[1] nên ta không cập nhật dist[1]
+
+Khi này, dist = [0, 2, 3, 1] và
+mark = [1, 1, 1, 1], res = 6. Do tất cả các đỉnh đã được đánh dấu (tất cả đã thuộc cây khung) nên kết thúc chương trình tại đây.
+
+
+Lưu ý: Để có thể khẳng định thuật toán Prim đúng thì ta sẽ cần phải chứng minh. Tuy nhiên trong khuôn khổ bài học này mình xin phép không đề cập đến việc chứng minh. Ta sẽ công nhận thuật toán trên là chính xác.
+
+
+Code
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+typedef pair<int,int> ii;
+
+const int MaxN = 1 + 1e5;
+const ll INF = 1e18;
+
+int n, m;
+ll dist[MaxN];
+bool mark[MaxN];
+vector<ii> adj[MaxN];
+
+int Prim(int s) {
+    ll res = 0;
+    memset(mark, 0, sizeof mark);
+    fill(dist + 1, dist + n + 1, INF);
+    priority_queue<ii, vector<ii>, greater<ii> > pq;
+    dist[s] = 0;
+    pq.push(ii(0, s));
+    while(!pq.empty()){
+        int u = pq.top().second;
+        pq.pop();
+        if(mark[u]) continue;
+        mark[u] = true;
+        res += dist[u];
+        for(ii v : adj[u])
+        if(v.second < dist[v.first]){
+            dist[v.first] = v.second;
+            pq.push(ii(dist[v.first], v.first));
+        }
+    }
+    return res;
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n >> m;
+    for(int i = 0 ; i < m ; ++i){
+        int u, v, k;
+        cin >> u >> v >> k;
+        adj[u].push_back(ii(v, k));
+        adj[v].push_back(ii(u, k));
+    }
+    cout << Prim(1) << endl;
+
+    return 0;
+}
+
+
+Độ phức tạp
+Ta thấy, ta sẽ phải chọn ra  đỉnh để đưa vào cây khung, mỗi lần lấy ra sẽ mất
+. Tại
+ lần lấy ra này, ta phải duyệt qua
+ cạnh để cập nhật
+, mỗi lần cập nhật mất
+. Do đó, tổng độ phức tạp là
+
+
+Kết luận
+Qua bài này chúng ta đã nắm về Tìm kiếm cây khung nhỏ nhất
+với thuật toán Prim
+Bài sau chúng ta sẽ tìm hiểu về 
+Tìm kiếm cây khung nhỏ nhất với thuật toán Kruskal
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Tìm kiếm cây khung nhỏ nhất (Prim) dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

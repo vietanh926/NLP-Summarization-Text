@@ -1,0 +1,1322 @@
+
+
+
+
+
+
+
+
+
+Đệ quy | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Đệ quy
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (1 đánh giá)
+                    
+
+
+
+                        Tạo bởi huulam3011
+
+
+                        Cập nhật lần cuối 14:00 15-05-2022
+
+
+8.185 lượt xem
+                    
+
+0 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Đệ quy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Đệ quy
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi huulam3011
+
+
+8.185
+
+
+0
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Đệ quy
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Trong các bài học trước, chúng ta đã bắt đầu tìm hiểu về các cấu trúc dữ liệu cơ bản đầu tiên. Bắt đầu từ bài học này, chúng ta sẽ đi vào tìm hiểu các thuật toán, mở đầu sẽ là đệ quy.
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Biến, kiểu dữ liệu, toán
+ tử trong C++ Câu điều kiện, vòng
+ lặp, hàm trong C++
+Mảng trong C++
+Các kiến thức cần thiết để theo dõi khóa học   
+Stack
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Khái niệm đệ quy Tính chất của đệ quy Cách hàm đệ quy hoạt động 
+
+Khái niệm đệ quy
+Đệ quy nói chung được hiểu là một sự vật được định nghĩa theo chính nó hoặc thuộc loại của nó.
+
+Ví dụ như việc bạn đặt 2 chiếc gương giống y như nhau và đối diện nhau (gương A và gương B). Khi nhìn vào mặt gương A ta sẽ thấy bóng phản chiếu của tấm gương B có nhỏ hơn kích thước thật.
+Nhưng trên mặt của tấm gương B lại đang phản chiếu lại ảnh của tấm gương A nên khi mặt tấm gương B bị phản chiếu trong A ta có thể nhìn thấy bóng của A trong bóng của B (bóng của A lại bị thu nhỏ hơn bóng của B).
+Quá trình này cứ lặp đi lặp lại dài vô hạn hoặc cho đến khi mắt người không nhìn thấy được. Đây chính là đệ quy
+Đệ quy trong Tin học được hiểu là việc một hàm tự gọi lại chính nó.
+
+Thành phần của hàm đệ quy
+Một hàm đệ quy yêu cầu có 2 yếu tố sau:
+
+Giá trị cơ sở: Đây chính là điều kiện để dừng vòng lặp đệ quy.
+
+
+Thân hàm: Đây chính là các câu lệnh xử lí trong hàm.
+
+
+Ví dụ minh hoạ
+Ở đây, mình có một đoạn code tính n! bằng đệ quy như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+ll factorial(int n){
+    if(n == 0) return 1; // Giá trị cơ sở
+    return n * factorial(n - 1); // Thân hàm
+}
+
+int main(){
+    cout << factorial(5) << endl;
+    // Kết quả: 120
+
+    return 0;
+}
+
+Để cho đơn giản ta sẽ gọi hàm factorial(n) là
+f(n). Chúng ta hãy cùng nhau tìm hiểu xem điều gì sẽ xảy ra khi đoạn code trên được thực thi nhé:
+
+Khi thực hiện việc đệ quy, máy tính sẽ lưu các hàm cần tính vào một bộ nhớ stack
+Đầu tiên, với n = 5, máy tính sẽ xử lí hàm 
+f(5). Ở câu lệnh điều kiện đầu tiên,
+n≠0 do đó câu lệnh này không thực hiện. Ở câu lệnh tiếp theo, để thực hiện câu lệnh
+return, máy tính sẽ cần hai giá trị n và
+f(n-1). Do đó, máy tính sẽ đi tính giá trị f(4). Khi này,
+f(5) sẽ được đẩy vào hàng chờ stack.        
+
+ 
+                      
+
+Tiếp theo với n = 4, quá trình tương tự với
+f(5). Máy tính sẽ đi tính giá trị
+f(3) và đẩy f(4) vào stack. 
+                  
+                                        
+
+Với n = 3, 2, 1, quá trình là hoàn toàn giống nhau.
+Tại n = 0, trạng thái hiện tại sẽ như sau:                                                                                  
+
+
+
+Với n = 0, câu lệnh điều kiện đầu tiên là đúng. Do đó, hàm
+f(0) sẽ trả về 1 và thoát.
+Khi này, máy tính sẽ lấy hàm trên đỉnh của stack mà cụ thể ở đây là
+f(1) để tiếp tục xử lý. Trước khi được đưa vào stack, hàm dừng ở đâu sẽ tiếp tục xử
+lý ở đó. Với f(1), hàm đang dừng ở câu lệnh
+return do đó sẽ thực hiện câu lệnh này. Khi này đã biết
+f(0) nên phép toán trong câu lệnh
+return là toán tử thông thường. 
+
+ 
+  
+
+Sau khi xử lí f(1), máy tính sẽ tiếp tục lấy hàm ở đỉnh stack và xử lí như trên cho đến khi stack rỗng.
+Khi stack rỗng, đệ quy kết thúc. 
+
+Ưu, nhược điểm của đệ quy
+Ưu điểm: 
+
+Sử dụng đệ quy sẽ thuận chiều suy nghĩ của chúng ta (từ yếu tố A ta cần yếu tố B, từ yếu tố B ta lại cần yếu tố C, …) và giúp phân chia bài toán thành các bài toán nhỏ hơn.
+
+Nhược điểm:
+
+Tốn bộ nhớ Nếu yếu tố cơ sở sai sẽ gây ra lặp vô hạn Khó debug 
+
+Kết luận
+
+Qua bài này chúng ta đã nắm được về Đệ quy Bài sau chúng ta sẽ bắt đầu tìm hiểu về 
+Quay lui Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Đệ quy dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nam Van
+đã đánh giá
+15:50 19-12-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

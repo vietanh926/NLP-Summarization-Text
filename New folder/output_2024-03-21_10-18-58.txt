@@ -1,0 +1,1515 @@
+
+
+
+
+
+
+
+
+
+Tổng quan về Disjoint Sets Union và cách xây dựng DSU | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tổng quan về Disjoint Sets Union và cách xây dựng DSU
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 4.5 (2 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 16:03 15-05-2022
+
+
+5.041 lượt xem
+                    
+
+1 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Tổng quan về Disjoint Sets Union và cách xây dựng DSU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tổng quan về Disjoint Sets Union và cách xây dựng DSU
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+5.041
+
+
+1
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Tổng quan về Disjoint Sets Union và cách xây dựng DSU
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Các bài toán về đồ thị luôn là những bài toán khó và đòi hỏi nhiều kiến thức. Một trong những kiến thức cơ bản nhất về đồ thị, được sử dụng làm nền tảng của nhiều thuật toán chính là Disjoint Sets
+ Union. Hãy cùng tìm hiểu nó trong bài học ngày hôm nay nhé!
+
+Nội dung
+Để có thể tiếp thu bài học này một cách tốt nhất, các bạn nên có những kiến thức cơ bản về:
+
+Các kiến thức cần thiết để theo dõi khóa học
+Đồ thị và cây
+BFS và DFS
+
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Disjoint Sets Union 
+
+Bài toán đặt ra
+Một quốc gia có n thành phố được đánh số từ 1 đến
+n. Ban đầu, không tồn tại bất kì một con đường nào nối hai thành phố với nhau. Có
+q truy vấn thuộc 1 trong 2 loại sau:
+
+: Xây dựng một con đường hai chiều nối hai thành phố
+ và 
+: Kiểm tra xem có tồn tại con đường nào đi từ thành phố
+ đến thành phố  hay không. Nếu có in ra “YES”, ngược lại in ra “NO”
+
+Các bạn hãy lập trình chương trình đáp ứng hai yêu cầu trên.
+Input:
+
+Dòng 1: Hai số nguyên dương n và
+q thể hiện cho số thành phố và số truy vấn
+
+Dòng 2…q+1: Mỗi dòng là một truy vấn thuộc 1 trong 2 dạng trên
+
+Output:
+
+Với mỗi truy vấn loại 2, in ra “YES” nếu tồn tại đường đi giữa hai thành phố, ngược lại in ra “NO”
+
+Ví dụ:
+
+
+
+
+Input
+
+
+Output
+
+
+
+
+6 8
+U 2 3
+U 3 5
+Q 5 2
+U 1 4
+Q 1 2
+U 1 3
+U 2 4
+Q 2 1
+
+
+YES
+NO
+YES
+
+
+
+
+
+Nhận xét
+Bài toán này nếu làm theo suy nghĩ thông thường để giải sẽ khá khó khăn và phức tạp. Do đó, ta sẽ cần một cách tiếp cận bài toán mới.
+Ta sẽ coi mỗi thành phố là một đỉnh của một đồ thị có hướng. Ban đầu, mỗi đỉnh sẽ tồn tại một khuyên.
+
+Khi ta thực hiện thao tác xây con đường kết nối thành phố
+x và thành phố y, thay vì cạnh có hướng từ đỉnh
+x trỏ đến chính nó, ta sẽ chỉnh cạnh có hướng đó trỏ vào đỉnh
+y. Ví dụ như ở trong ví dụ trên, khi ta đổ sỏi từ hộp 2 vào hộp 3 ta sẽ có đồ thị như sau:
+
+Khi ta kết nối thành phố 3 và thành phố 5 ta sẽ có đồ thị như sau:
+
+Đó là xây dựng các con đường. Vậy kiểm tra có tồn tại con đường nào đi giữa hai thành phố hay không thì ta sẽ làm thế nào?
+Ta nhận thấy rằng, nếu như các thành phố được kết nối với nhau thì các đỉnh đại diện cho chúng sẽ có chung gốc.
+
+Ví dụ:
+
+Đỉnh 2 có gốc là đỉnh 5 do có đường đi từ đỉnh 2 đến đỉnh 3, từ đỉnh 3 đến đỉnh 5 và không tồn tại đường đi đến đỉnh nào khác nữa.
+Đỉnh 3 có gốc là đỉnh 5 do có đường đi từ đỉnh 3 đến đỉnh 5 và không tồn tại đường đi đến đỉnh nào khác.
+
+Do đó, đỉnh 2 và đỉnh 3 có chung gốc hay có nghĩa là tồn tại đường đi từ thành phố 2 đến thành phố 3.
+Tiếp tục, khi ta xây dựng đường đi giữa thành phố 1 và thành phố 4 ta sẽ có đồ thị như sau:
+
+Khi này, ta thấy gốc của đỉnh 1 là đỉnh 4, gốc của đỉnh 2 là đỉnh 5 nên không tồn tại đường đi giữa hai thành phố 1 và thành phố 5.
+Tiếp tục, ta xây dựng con đường nối hai thành phố 1 và thành phố 3. Khi này, ta sẽ tạo một cạnh có hướng từ
+đỉnh gốc của đỉnh 1 đến đỉnh gốc của đỉnh 3. Tại sao lại vậy?
+
+Ta thấy rằng do các con đường là đường hai chiều nên nếu tồn tại con đường nối thành phố 1 với thành phố 3 thì cũng sẽ tồn tại các con đường nối thành phố 1 với thành phố 2 và thành phố 5 (do tồn tại các con đường nối thành phố
+ 3 đến thành phố 2 và thành phố 5). Tương tự, cũng sẽ tồn tại con đường nối thành phố 4 với các thành phố 2 và thành phố 5.
+Nói cách khác, nếu như hai thành phố trong hai tập khác nhau được kết nối với nhau thì tất cả các thành phố trong hai tập sẽ được kết nối với nhau. Do đó, ta sẽ nối đỉnh gốc của hai tập để thể hiện hai tập này được kết nối với nhau.
+Khi đó, đồ thị ta có như sau:
+
+
+Chú ý: Ở trong đồ thị trên mình tạo cạnh nối đỉnh 4 vào đỉnh 5 tuy nhiên nếu các bạn nối đỉnh 5 vào đỉnh 4 thì vẫn đúng. Chiều của cạnh nối trong DSU không ảnh hưởng đến kết quả.
+
+Tiếp theo, ta cần xây dựng đường đi giữa thành phố 1 và thành phố 4. Ta thấy, hai đỉnh đại diện cho 2 thành phố khi này đã chung gốc là đỉnh 5 nên việc xây thêm một con đường không gây ảnh hưởng gì đến đồ thị.
+Lúc này, đỉnh 1 và đỉnh 2 chung gốc nên tồn tại đường đi giữa thành phố 1 và thành phố 2.
+Toàn bộ những ý tưởng mà mình trình bày ở trên chính là ý tưởng của
+Disjoint Sets Union. Để biết chính xác Disjoint Sets Union là gì cũng như cách cài đặt thì hãy cùng mình tìm hiểu ở phần sau nhé.
+
+Tổng quan về DSU
+Khái niệm
+Disjoint Sets Union (gọi tắt là
+DSU) là một cấu trúc dữ liệu chứa nhiều phần tử được phân chia vào các tập hợp khác nhau. DSU có thể gộp hai tập hợp cũng như cho biết một phần tử thuộc tập hợp nào.
+
+Phương thức cơ bản
+Một DSU sẽ hỗ trợ các phương thức cơ bản sau:
+
+Tạo tập hợp chứa các phần tử 
+
+Gộp hai tập hợp chứa hai phần tử yêu cầu lại làm một
+Tìm kiếm tập hợp chứa phần tử yêu cầu 
+
+Xây dựng DSU
+Nguyên tắc
+Thông thường, DSU sẽ được xây dựng dưới dạng một đồ thị có hướng như mình đã trình bày ở phần trên. Để thể hiện cạnh có hướng nối từ đỉnh này đến đỉnh khác, ta sẽ dùng một mảng
+parent với ý nghĩa parent[u] = v là tồn tại cạnh có hướng nối từ đỉnh
+u đến đỉnh v.
+Để khởi tạo tập hợp chứa các phần tử, ta đơn giản chỉ cần tạo ra một cây có đỉnh là chính phần tử đó.
+Để có thể gộp hai tập hợp chứa hai phần tử yêu cầu lại làm một, trước hết ta sẽ phải tìm xem đỉnh gốc của hai tập hợp chứa hai phần tử của hai phần tử đã cho rồi sau đó, gán cha của một đỉnh là đỉnh còn lại.
+Để tìm tập hợp chứa phần tử yêu cầu, ta chỉ cần đi theo cha của đỉnh đó tới khi đến đỉnh gốc (đỉnh có cha là chính nó)
+
+Code ban đầu
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int n, q, parent[MaxN];
+
+void make_set(int u){
+    parent[u] = u;
+}
+
+int find_set(int u){
+    if(u == parent[u]) return u;
+    return find_set(parent[u]);
+}
+
+void union_set(int u, int v){
+    u = find_set(u);
+    v = find_set(v);
+    if(u == v) return;
+    parent[u] = v;
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n >> q;
+    for(int i = 1 ; i <= n ; ++i) make_set(i);
+    while(q--){
+        char query;
+        int x, y;
+        cin >> query >> x >> y;
+        if(query == 'Q'){
+            if(find_set(x) == find_set(y)) cout << "YES" << endl;
+            else cout << "NO" << endl;
+        }
+        else{
+            union_set(x, y);
+        }
+    }
+
+    return 0;
+}
+
+
+Code cải tiến
+Ta thấy trong code trên, nếu như cây suy biến thành đường thẳng thì hàm
+find_set() sẽ mất độ phức tạp  và nếu như hàm được gọi lại nhiều lần thì chương trình của chúng ta sẽ chậm. Do đó, ta sẽ cần phải
+ cải tiến hàm này.
+Ta lại thấy với mỗi đỉnh ta chỉ quan tâm đến đỉnh gốc của đỉnh đó. Do đó, trong quá trình tìm kiếm đỉnh gốc, ta sẽ gán cha của tất cả các đỉnh trên đường đi về đỉnh gốc.
+Code khi này sẽ như sau:
+
+#include<bits/stdc++.h>
+using namespace std;
+
+const int MaxN = 1 + 1e6;
+
+int n, q, parent[MaxN];
+
+void make_set(int u){
+    parent[u] = u;
+}
+
+int find_set(int u){
+    if(u == parent[u]) return u;
+    return parent[u] = find_set(parent[u]);
+}
+
+void union_set(int u, int v){
+    u = find_set(u);
+    v = find_set(v);
+    if(u == v) return;
+    parent[u] = v;
+}
+
+int main(){
+    freopen("CTDL.inp","r",stdin);
+    freopen("CTDL.out","w",stdout);
+    cin >> n >> q;
+    for(int i = 1 ; i <= n ; ++i) make_set(i);
+    while(q--){
+        char query;
+        int x, y;
+        cin >> query >> x >> y;
+        if(query == 'Q'){
+            if(find_set(x) == find_set(y)) cout << "YES" << endl;
+            else cout << "NO" << endl;
+        }
+        else{
+            union_set(x, y);
+        }
+    }
+
+    return 0;
+}
+
+Khi này, hàm find_set() có độ phức tạp trung bình sẽ là
+.
+
+Kết luận
+
+Qua bài này chúng ta đã nắm về Disjoint Sets
+Bài sau chúng ta sẽ tìm hiểu về Tìm kiếm đường đi ngắn nhất trên đồ thị
+Cảm ơn các bạn đã theo dõi bài viết. Hãy để lại bình luận hoặc góp ý của mình để phát triển bài viết tốt hơn. Đừng quên “Luyện tập – Thử thách – Không ngại khó”.
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Tổng quan về Disjoint Sets Union và cách xây dựng DSU dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nguyễn Văn Đạt
+đã đánh giá
+21:32 01-09-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kien_so_deep
+đã đánh giá
+21:14 30-06-2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kien_so_deep
+đã bình luận
+21:15 30-06-2022
+
+
+chân thành cảm ơn Kteam rất nhiều, mong Kteam sẽ có thêm các bài học mới
+
+
+
+
+0
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

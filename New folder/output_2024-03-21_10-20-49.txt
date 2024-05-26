@@ -1,0 +1,1323 @@
+
+
+
+
+
+
+
+
+
+Một số tài liệu tham khảo và chia sẻ kết thúc | How Kteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đăng ký
+            
+
+ Đăng nhập
+            
+
+
+
+
+
+
+
+
+
+PG
+Pages
+
+
+
+Khóa học
+
+
+
+
+
+Lập trình
+
+
+
+
+
+                                Lập trình C# .Net
+                            
+
+
+
+                                Lập trình C++
+                            
+
+
+
+                                Lập trình Android
+                            
+
+
+
+                                Điều trường học không dạy
+                            
+
+
+
+                                Thủ thuật lập trình
+                            
+
+
+
+                                Lập trình Java
+                            
+
+
+
+                                Unity3D
+                            
+
+
+
+                                Phân tích thiết kế
+                            
+
+
+
+                                Lập trình Python
+                            
+
+
+
+                                Lập trình PHP
+                            
+
+
+
+                                JavaScript - (Website)
+                            
+
+
+
+                                Lập trình Front-End
+                            
+
+
+
+                                Lập trình Mobile
+                            
+
+
+
+
+
+Microsoft Office 2016
+
+
+
+
+
+                                Microsoft Word 2016
+                            
+
+
+
+                                Microsoft Excel 2016
+                            
+
+
+
+                                Microsoft PowerPoint 2016
+                            
+
+
+
+
+
+IT & Phần mềm
+
+
+
+
+
+                                Thủ thuật máy tính
+                            
+
+
+
+                                Hướng dẫn cài đặt
+                            
+
+
+
+                                Bảo mật máy tính
+                            
+
+
+
+                                Phần cứng & Bảo mật
+                            
+
+
+
+
+
+Đồ họa hình ảnh
+
+
+
+
+
+                                Adobe Photoshop LightRoom
+                            
+
+
+
+
+
+Kinh tế
+
+
+
+
+
+                                Quản trị kinh doanh
+                            
+
+
+
+                                Kế toán
+                            
+
+
+
+                                Nhân sự
+                            
+
+
+
+                                SEO
+                            
+
+
+
+                                Marketing
+                            
+
+
+
+
+
+Ngoại ngữ
+
+
+
+
+
+                                Tiếng anh
+                            
+
+
+
+
+
+Kỹ năng mềm
+
+
+
+
+
+                                Kỹ năng mềm
+                            
+
+
+
+
+
+Tin tức
+
+
+
+
+
+                                Tin tức công nghệ
+                            
+
+
+
+
+
+
+Khóa học
+
+
+
+Hỏi đáp
+
+
+Bài viết
+
+
+Tag
+
+
+Kter
+
+
+Về Kteam
+
+
+Tài trợ
+
+
+Phản hồi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Đặt câu hỏi
+                            
+
+ Viết bài
+                            
+
+ Tạo series
+                            
+
+
+
+
+
+
+Tài khoản
+
+
+
+
+ Đăng nhập
+            
+
+ Đăng ký
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Một số tài liệu tham khảo và chia sẻ kết thúc
+Cấu trúc dữ liệu và giải thuật
+
+
+
+
+
+
+
+
+
+ 5.0 (1 đánh giá)
+                    
+
+
+
+                        Tạo bởi Katsu
+
+
+                        Cập nhật lần cuối 16:10 08-07-2022
+
+
+3.684 lượt xem
+                    
+
+2 bình luận
+                    
+
+
+Tác giả/Dịch giả:
+
+
+huulam3011
+
+
+
+K9
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khóa học
+Lập trình
+Lập trình C++
+Cấu trúc dữ liệu và giải thuật
+Một số tài liệu tham khảo và chia sẻ kết thúc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Danh sách bài học
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Một số tài liệu tham khảo và chia sẻ kết thúc
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+                        Tạo bởi Katsu
+
+
+3.684
+
+
+2
+
+
+
+
+
+                    Học nhanh
+                    
+
+
+
+
+
+
+
+
+                            Một số tài liệu tham khảo và chia sẻ kết thúc
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                        
+                                            Học nhanh
+                                            
+
+
+
+
+
+
+
+
+Bài trước
+
+
+Bài sau
+
+
+
+
+
+
+
+
+
+
+Dẫn nhập
+Vậy là chúng ra đã cùng nhau trải qua một hành trình dài với
+khóa học này rồi. Bài học ngày hôm nay sẽ là những chia sẻ cuối cùng của mình về một số tài liệu hay mà các bạn có thể tham khảo.
+
+Nội dung
+Trong bài học ngày hôm nay, chúng ta sẽ cùng nhau tìm hiểu về:
+
+Một số tài liệu tham khảo Chia sẻ kết thúc khoá học 
+
+Một số tài liệu tham khảo
+Những gì mình đã giới thiệu với các bạn trong khoá học này chỉ là một phần kiến thức nhỏ trong rất nhiều những kiến thức về cấu trúc dữ liệu và giải thuật. Do đó, mình muốn giới thiệu với các bạn một số nguồn tài liệu tham khảo
+ khác để có thể tìm hiểu thêm nhiều nội dung hơn. Ngoài ra, nếu có bạn nào có những nguồn tài liệu tham khảo mà các bạn thấy thú vị thì hoàn toàn có thể chia sẻ ở phần comment cho mọi người cùng biết nhé.
+VNOI Wiki
+
+VNOI Wiki là một trang web mà không lập trình viên thi đấu nào ở Việt Nam mà không biết đến cả. Đây chính là nơi xuất phát và nuôi dưỡng rất nhiều các học sinh giỏi quốc gia và quốc tế. Trong trang web này, bạn có thể tìm thấy rất
+ nhiều các bài viết về các chủ đề khác nhau. Ngoài ra, cũng sẽ có những bài viết chia sẻ kinh nghiệm khi thi đấu lập trình, các câu hỏi khi phỏng vấn, … Một điểm khiến các bài viết trên đây uy tín và chất lượng là vì những người viết đều là các học sinh giỏi,
+ có kiến thức rất vững và chắc. Đây có thể coi là nguồn tài liệu tiếng Việt mà mình tin tưởng nhất.
+USACO Guide
+
+Nếu như các bạn có khả năng đọc tiếng Anh ở mức khá thì USACO Guide sẽ là một người hướng dẫn rất tốt cho bạn. Ở trang web này, các bạn có thể đi theo một lộ trình được vạch sẵn ra từ trước. Các kiến thức từ dễ đến khó được trình
+ bày một cách dễ hiểu sẽ khiến bạn tiếp cận với lập trình thuật toán một cách đơn giản và nhanh chóng.
+
+Ngoài ra, các bạn có thể tìm thấy các bài tập là các bài toán trong đề thi USACO (USA Computing Olympiad) –
+kỳ thi Olympic lập trình của Mỹ được phân chia thành các nhóm chủ đề như stack, quy hoạch động, xâu, …
+Codeforces
+
+Nếu các bạn đã cảm thấy kiến thức về thuật toán của bản thân đã ổn và muốn thử sức với những bài toán khó hay các kì thi thì Codeforces sẽ là một lựa chọn tốt. Trên trang web này sẽ có rất nhiều các bài toán từ dễ đến vô cùng khó
+ để các bạn lựa chọn. Ngoài ra, hằng tuần cũng sẽ có những kì thi online để các bạn có thể trải nghiệm cảm giác làm từ 4-5 bài toán trong một khoảng thời gian giới hạn. Sau mỗi kì thi sẽ đều có lời giải để các bạn đọc.
+Không chỉ vậy, Codeforces còn là một diễn đàn chia sẻ kiến thức hay. Các bạn có thể đọc bài viết của những người khác để tham khảo và học tập.
+Vừa rồi là những nguồn tài liệu tham khảo mà mình cảm thấy rất hay và đáng giá. Tất nhiên vẫn còn nhiều trang web hay tài liệu nữa mà mình biết nhưng mình nghĩ các bạn khi bắt đầu chỉ nên tập trung vào một số nguồn nhất định. Một
+ điểm mà các bạn nên chú ý đó là các tài liệu tiếng Anh thường sẽ nhiều hơn nên các bạn hãy cố gắng rèn luyện vốn tiếng Anh của mình để có thể tiếp cận với đa dạng tài liệu hơn.
+Như vậy là toàn bộ nội dung của khóa học đã kết thúc tại đây. Phần cuối của bài viết này sẽ là những chia sẻ cá nhân của mình.
+
+Chia sẻ kết thúc khoá học
+Nếu các bạn còn đọc tới dòng này thì thực sự rất cảm ơn các bạn đã đồng hành cùng mình trong suốt một
+khóa học dài.
+Series này được mình bắt đầu vào tháng 9/2021 và ngày kết thúc – cũng là ngày mình đang gõ những dòng này là tháng 4/2022. Quãng thời gian không quá dài, tuy nhiên mình đã chia sẻ với các bạn rất nhiều những kiến thức mà mình biết.
+ Mục tiêu của mình khi viết khóa học này là thay đổi cách tiếp cận đến một môn học mà nhiều bạn học về công nghệ sẽ cảm thấy rất chán và khó. Theo các bạn, những người được giới thiệu các kiến thức, mục tiêu ấy đã đạt được chưa?
+ Hãy chia sẻ cho mình biết nhé!
+Kiến thức về thuật toán và cấu trúc dữ liệu còn rất nhiều, những gì mình giới thiệu chỉ là một phần nhỏ nhưng
+hy vọng nó sẽ là bước đệm tốt để các bạn có thể bắt đầu một hành trình dài hơn.
+Các bạn có cảm nghĩ gì sau khi kết thúc khoá học? Các bạn có còn vấn đề gì liên quan muốn mình giới thiệu không? Biết đâu sẽ lại có thêm những
+khóa học khác về các vấn đề đó. Hãy chia sẻ ở phần comment nhé!
+Cuối cùng, cảm ơn và xin chào tất cả các bạn!
+
+
+
+Tải xuống
+
+Tài liệu
+Nhằm phục vụ mục đích học tập Offline của cộng đồng, Kteam hỗ trợ tính năng lưu trữ nội dung bài học Một số tài liệu tham khảo và chia sẻ kết thúc dưới dạng file PDF trong link bên dưới.
+Ngoài ra, bạn cũng có thể tìm thấy các tài liệu được đóng góp từ cộng đồng ở mục TÀI LIỆU trên thư viện Howkteam.com
+
+Đừng quên like và share để ủng hộ Kteam và tác giả nhé!
+
+
+
+
+
+Thảo luận
+Nếu bạn có bất kỳ khó khăn hay thắc mắc gì về khóa học, đừng ngần ngại đặt câu hỏi trong phần BÌNH LUẬN bên dưới hoặc trong mục HỎI & ĐÁP trên thư viện Howkteam.com để nhận được sự hỗ trợ từ cộng đồng.
+
+
+
+CỘNG ĐỒNG HỎI ĐÁP HOWKTEAM.COM
+
+
+
+
+
+GROUP THẢO LUẬN FACEBOOK
+
+
+
+
+
+
+
+
+
+
+
+                                        Nội dung bài viết
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tác giả/Dịch giả
+
+
+
+
+
+
+
+
+huulam3011
+
+
+Mình là Nguyễn Hữu Lâm, một người có niềm đam mê rất lớn đối với lập trình. Hiện tại, mình đang là sinh viên Khoa học máy tính của Đại học Bách Khoa Hà Nội. Mong muốn của mình là có thể chia sẻ những kiến thức mà bản thân có cho mọi người, học hỏi, kết bạn
+ với tất cả những người có cùng đam mê với mình.
+
+
+
+
+
+
+
+
+
+
+K9
+
+
+Nhà sáng lập Howkteam.com, KQuiz.vn & tác giả các khóa học C#, Auto, Unity3D, Python....
+Với mong muốn mang đến kiến thức chất lượng, miễn phí cho mọi người, với tâm huyết phá bỏ rào cản kiến thức từ việc giáo dục thu phí. Tôi đã cùng đội ngũ Kteam đã lập nên trang website này để thế giới phẳng hơn.
+Hãy cùng chúng tôi lan tỏa kiến thức đến cộng đồng! 
+
+
+
+
+
+
+
+
+
+Khóa học
+
+
+
+Cấu trúc dữ liệu và giải thuật
+
+
+Bạn đã từng đau đầu với các cấu trúc stack, queue,.. hoặc cảm thấy cực kỳ khó khăn với các thuật toán sắp xếp, tìm kiếm được sử dụng trong lập trình. Đừng lo lắng! Trong khoá học này, chúng ta sẽ cùng nhau tìm hiểu một cách đơn giản nhất về cấu
+ trúc dữ liệu và giải thuật, cũng như giúp bạn nắm rõ hơn về các kiến thức này.
+Hãy cùng xem cấu trúc dữ liệu và giải thuật có gì đáng sợ không nhé!
+
+
+
+
+
+
+
+Đánh giá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KHMIMHK
+đã đánh giá
+17:35 11-03-2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+
+Để bình luận, bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+haidang2102
+đã bình luận
+13:54 28-10-2022
+
+
+Đã học xong và sẽ còn học lại sau này để nắm chắc kiến thức hơn
+ 
+
+
+
+
+1
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kien_so_deep
+đã bình luận
+19:45 24-07-2022
+
+
+cảm ơn KTeam <3
+
+
+
+
+1
+0
+
+Trả lời
+
+ Báo cáo
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+ Nội dung
+
+
+
+
+
+ Không có video.
+
+
+
+
+ Danh sách bài giảng
+
+
+
+
+
+
+
+
+
+
+Đánh giá và Nhận xét
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin Kteam
+
+Về Kteam
+Dịch vụ
+Liên hệ
+
+Đóng góp từ cộng đồng
+
+Tài trợ
+Người ủng hộ
+
+
+
+Lĩnh vực
+
+
+
+Khoá học
+
+
+
+Cộng đồng
+
+Hỏi đáp
+Tài liệu
+Chiến dịch
+
+Liên kết
+
+Vted - Học toán online chất lượng cao
+Lập trình VB.NET
+Linux Team Việt Nam
+
+
+
+Kết nối với Kteam
+Kết nối với Kteam qua mạng xã hội
+
+
+
+
+Chứng nhận
+
+
+
+
+
+
+
+
+Howkteam © 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quan tâm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tag theo dõi
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu đăng nhập
+
+
+
+
+
+
+
+
+Để sử dụng tính năng này, Bạn cần đăng nhập bằng tài khoản Howkteam.
+Đăng nhập
+
+
+
+
+
+
+
+
+
+AD BLOCKER DETECTED
+
+            Để xem được nội dung và giúp Kteam duy trì hoạt động. 
+Bạn vui lòng tắt Adblock trên website howkteam.vn nhé!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
