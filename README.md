@@ -4,3 +4,4 @@ Nhóm 21 - Môn xử lý ngôn ngữ tự nhiên - Đại học Mỏ Địa Ch�
 + Nguyễn Việt Anh 
 + Lê Danh Cần
 + Phạm Thị Liên
+----------------------------------
